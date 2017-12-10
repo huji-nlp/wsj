@@ -1,0 +1,31 @@
+#20201003
+1	Howard	Howard	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Mosher	_generic_proper_ne_	NNP	-	-	named:x-c	compound	appos	_	_	ARG1	_	_	_	_	_	_	_	_	_	_
+3	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	president	president	NN	-	+	n_of:x-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	chief	chief	JJ	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	executive	executive	JJ	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	officer	officer	NN	-	-	n:x	_	_and_c	compound	compound	_	_	_	_	_	_	_	_	_	_	_
+9	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	said	say	VBD	+	+	v_to:e-i-h-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	he	he	PRP	-	-	pron:x	_	_	_	_	_	ARG1	_	_	_	_	_	_	_	_	_
+12	anticipates	anticipate	VBZ	-	+	v:e-i-p	_	_	_	_	ARG2	_	_	_	_	_	ARG1	_	ARG1	_	_
+13	growth	growth	NN	-	-	n_of:x-i	_	_	_	_	_	ARG2	ARG1	_	_	_	_	_	_	_	_
+14	for	for	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	luxury	luxury	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	auto	auto	NN	-	+	n:x	_	_	_	_	_	_	_	_	compound	_	_	_	_	_	_
+18	maker	maker	NN	-	-	n_of:x-i	_	_	_	_	_	_	ARG2	BV	_	compound	_	_	_	_	_
+19	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	Britain	Britain	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	ARG2	_	_	_	_
+21	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	Europe	Europe	NNP	-	-	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_and_c	_	_	_
+23	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_and_c	_	_	_	_
+26	Far	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	Eastern	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	compound	_
+28	markets	market	NNS	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	_	compound
+29	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+

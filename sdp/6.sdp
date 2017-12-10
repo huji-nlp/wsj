@@ -1,0 +1,11 @@
+#20202002
+1	The	the	DT	-	+	q:i-h-h	_	_	_	_	_
+2	new	new	JJ	-	+	a:e-p	_	_	_	_	_
+3	rate	rate	NN	-	-	n_of:x-i	BV	ARG1	ARG1	_	_
+4	will	will	MD	-	-	_	_	_	_	_	_
+5	be	be	VB	-	-	_	_	_	_	_	_
+6	payable	payable	JJ	+	+	a_to:e-p-i	_	_	_	_	loc
+7	Feb.	Feb.	NNP	-	+	mofy:x-c	_	_	_	_	_
+8	15	_generic_dom_card_ne_	CD	-	+	dofm:x-c	_	_	_	of	_
+9	.	_	.	-	-	_	_	_	_	_	_
+

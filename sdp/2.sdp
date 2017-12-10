@@ -1,0 +1,22 @@
+#20201001
+1	Rolls-Royce	_generic_proper_ne_	NNP	-	-	named:x-c	_	appos	_	ARG1	_	_	_	_	_	_	_	_	_
+2	Motor	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Cars	_generic_proper_ne_	NNPS	-	+	named:x-c	compound	_	compound	_	_	_	_	_	_	_	_	_	_
+4	Inc.	Inc.	NNP	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	said	say	VBD	+	+	v_to:e-i-h-i	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	it	it	PRP	-	-	pron:x	_	_	_	_	ARG1	_	_	_	_	_	_	_	_
+7	expects	expect	VBZ	-	+	v:e-i-h	_	_	_	ARG2	_	_	_	_	_	_	_	_	_
+8	its	its	PRP$	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	U.S.	U.S.	NNP	-	+	named_n:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	sales	sale	NNS	-	-	n_of:x-i	_	_	_	_	_	poss	compound	ARG1	ARG1	_	_	_	_
+11	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	remain	remain	VB	-	+	v:e-i-h	_	_	_	_	ARG2	_	_	_	_	ARG1	_	_	ARG1
+13	steady	steady	JJ	-	+	a:e-p	_	_	_	_	_	_	_	ARG2	_	_	_	_	_
+14	at	at	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	about	about	RB	-	+	x:e-u	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	1,200	_generic_card_ne_	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	ARG1	_	_
+17	cars	car	NNS	-	-	n:x	_	_	_	_	_	_	_	_	_	ARG2	_	ARG1	_
+18	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	1990	_generic_year_ne_	CD	-	-	yofc:x-c	_	_	_	_	_	_	_	_	_	_	_	_	ARG2
+20	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+

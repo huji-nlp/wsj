@@ -1,0 +1,24 @@
+#20203020
+1	Companies	company	NNS	-	-	n_of:x-i	_	ARG2	ARG1	_	_	_	_	_	_	_	_
+2	would	would	MD	+	+	v_modal:e-h	_	_	_	_	_	_	_	_	_	_	_
+3	be	be	VB	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+4	compelled	compel	VBN	-	+	v:e-i-i-h	ARG1	_	_	_	_	_	_	_	_	_	_
+5	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+6	publish	publish	VB	-	+	v:e-i-p	_	ARG3	_	ARG1	_	_	_	_	_	_	_
+7	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_
+8	annual	annual	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_
+9	proxy	proxy	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_
+10	statements	statement	NNS	-	-	n_of:x-i	_	_	_	ARG2	ARG1	compound	_	_	_	_	_
+11	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_
+12	names	name	NNS	-	+	n_of:x-i	_	_	ARG2	_	_	_	BV	_	_	_	_
+13	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+14	insiders	insider	NNS	-	-	n:x	_	_	_	_	_	_	_	ARG1	_	ARG1	_
+15	who	who	WP	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+16	fail	fail	VBP	-	+	v:e-h	_	_	_	_	_	_	_	_	_	_	_
+17	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+18	file	file	VB	-	+	v:e-i-p	_	_	_	_	_	_	_	_	ARG1	_	ARG1
+19	reports	report	NNS	-	-	n_of:x-i	_	_	_	_	_	_	_	_	_	ARG2	_
+20	on	on+time	IN	-	-	a:e-e	_	_	_	_	_	_	_	_	_	_	mwe
+21	time	on+time	NN	-	+	a:e-e	_	_	_	_	_	_	_	_	_	_	_
+22	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_
+
