@@ -1,0 +1,21 @@
+1	Rolls-Royce	_	NNP	_	_	3	NAME	_	_
+2	Motor	_	NNP	_	_	3	NAME	_	_
+3	Cars	_	NNS	_	_	5	SBJ	_	_
+4	Inc.	_	NNP	_	_	3	POSTHON	_	_
+5	said	_	VBD	_	_	0	ROOT	_	_
+6	it	_	PRP	_	_	7	SBJ	_	_
+7	expects	_	VBZ	_	_	5	OBJ	_	_
+8	its	_	PRP$	_	_	10	NMOD	_	_
+9	U.S.	_	NNP	_	_	10	NMOD	_	_
+10	sales	_	NNS	_	_	7	OBJ	_	_
+11	to	_	TO	_	_	7	OPRD	_	_
+12	remain	_	VB	_	_	11	IM	_	_
+13	steady	_	JJ	_	_	12	PRD	_	_
+14	at	_	IN	_	_	12	LOC	_	_
+15	about	_	IN	_	_	16	DEP	_	_
+16	1,200	_	CD	_	_	17	NMOD	_	_
+17	cars	_	NNS	_	_	14	PMOD	_	_
+18	in	_	IN	_	_	12	TMP	_	_
+19	1990	_	CD	_	_	18	PMOD	_	_
+20	.	_	.	_	_	5	P	_	_
+

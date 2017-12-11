@@ -1,0 +1,18 @@
+1	The	_	DT	_	_	3	NMOD	_	_
+2	proposed	_	VBN	_	_	3	NMOD	_	_
+3	changes	_	NNS	_	_	5	SBJ	_	_
+4	also	_	RB	_	_	5	ADV	_	_
+5	would	_	MD	_	_	0	ROOT	_	_
+6	allow	_	VB	_	_	5	VC	_	_
+7	executives	_	NNS	_	_	6	OBJ	_	_
+8	to	_	TO	_	_	6	OPRD	_	_
+9	report	_	VB	_	_	8	IM	_	_
+10	exercises	_	NNS	_	_	9	OBJ	_	_
+11	of	_	IN	_	_	10	NMOD	_	_
+12	options	_	NNS	_	_	11	PMOD	_	_
+13	later	_	RB	_	_	9	TMP	_	_
+14	and	_	CC	_	_	13	COORD	_	_
+15	less	_	RBR	_	_	16	AMOD	_	_
+16	often	_	RB	_	_	14	CONJ	_	_
+17	.	_	.	_	_	5	P	_	_
+
