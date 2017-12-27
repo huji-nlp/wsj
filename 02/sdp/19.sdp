@@ -1,0 +1,37 @@
+#20203011
+1	Investors	investor	NNS	-	+	n:x	_	_	_	_	_	_	ARG1	_	_	_	_	_	_	_	_	_	_
+2	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	money	money	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	managers	manager	NNS	-	+	n_of:x-i	conj	compound	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	corporate	corporate	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	officials	official	NNS	-	-	n:x	_	_	_and_c	ARG1	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	had	have	VBD	+	+	v_qmodal:e-h	_	_	_	_	_	ARG1	_	_	_	_	_	_	_	_	_	_	_
+9	until	until	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	today	today	NN	-	-	time_n:x	_	_	_	_	_	ARG2	_	_	_	_	_	_	_	_	_	_	_
+11	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	comment	comment	VB	-	+	v_on:e-i-i	_	_	_	_	ARG1	_	_	_	_	_	_	_	_	_	_	_	_
+13	on	on	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	proposals	proposal	NNS	-	-	n:x	_	_	_	_	_	_	ARG2	BV	_	_	_	_	_	_	_	_	_
+16	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	issue	issue	NN	-	-	n:x	_	_	_	_	_	_	_	_	BV	ARG1	_	_	_	_	_	_	_
+20	has	has	VBZ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	produced	produce	VBN	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2
+22	more	more	JJR	-	+	much-many_a:e-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	mail	mail	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	ARG2	ARG1	_	_	_	_	_	_
+24	than	than	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	almost	almost	RB	-	+	x:e-u	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	any	any	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	ARG1	_	_	_	_	_
+27	other	other	JJ	-	+	a:e-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	issue	issue	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	_	than	_	BV	ARG1	ARG1	_	_
+29	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	memory	memory	NN	-	-	n_of:x-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	_	_
+31	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	Mr.	Mr.	NNP	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	Lane	Lane	NNP	-	-	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	compound	ARG1
+34	said	say	VBD	-	+	v_to:e-i-h-i	_	_	_	_	_and_c	_	_	_	_	_	_	_	_	_	_	_	_
+35	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+

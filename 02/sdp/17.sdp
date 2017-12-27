@@ -1,0 +1,20 @@
+#20203009
+1	But	but	CC	+	+	c:i-i-i	_	_	_	_	_	_	_	_	_	_
+2	about	about	IN	-	+	x:e-u	_	_	_	_	_	_	_	_	_	_
+3	25	_generic_card_ne_	CD	-	+	card:i-i-c	_	ARG1	_	_	_	_	_	_	_	_
+4	%	%	NN	-	+	n_of:x-i	_	_	ARG1	_	_	ARG1	_	ARG1	_	_
+5	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_
+6	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_
+7	insiders	insider	NNS	-	-	n:x	_	_	_	ARG1	BV	_	_	_	_	_
+8	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_
+9	according	according+to	VBG	-	-	p:e-u-i	_	_	_	_	_	mwe	_	_	_	_
+10	to	according+to	TO	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_
+11	SEC	SEC	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_
+12	figures	figure	NNS	-	-	n:x	_	_	_	_	_	ARG2	compound	_	_	_
+13	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_
+14	file	file	VB	-	+	v:e-i-p	ARG2	_	_	_	_	_	_	_	_	loc
+15	their	their	PRP$	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_
+16	reports	report	NNS	-	-	n_of:x-i	_	_	_	_	_	_	_	ARG2	poss	_
+17	late	late	RB	-	+	time_n:x	_	_	_	_	_	_	_	_	_	_
+18	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_
+

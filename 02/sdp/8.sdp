@@ -1,0 +1,19 @@
+#20202004
+1	Bell	Bell	NNP	-	-	named:x-c	ARG2	_	_	ARG1	ARG1	_	_
+2	,	_	,	-	-	_	_	_	_	_	_	_	_
+3	based	base	VBN	-	+	v:e-i-p	_	ARG1	_	_	_	_	_
+4	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_
+5	Los	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	_	_
+6	Angeles	_generic_proper_ne_	NNP	-	-	named:x-c	_	ARG2	compound	_	_	_	_
+7	,	_	,	-	-	_	_	_	_	_	_	_	_
+8	makes	make	VBZ	+	+	v:e-i-p-u	_	_	_	_	_	_	_
+9	and	and	CC	-	-	_	_	_	_	_	_	_	_
+10	distributes	distribute	VBZ	-	+	v_to:e-i-p	_	_	_	_and_c	_	_	_
+11	electronic	electronic	JJ	-	+	a:e-p	_	_	_	_	_	_	_
+12	,	_	,	-	-	_	_	_	_	_	_	_	_
+13	computer	computer	NN	-	+	n:x	_	_	_	_	_	conj	_
+14	and	and	CC	-	-	_	_	_	_	_	_	_	_
+15	building	building	NN	-	-	n:x	_	_	_	_	_	_	_and_c
+16	products	product	NNS	-	-	n:x	_	_	_	ARG2	ARG2	ARG1	compound
+17	.	_	.	-	-	_	_	_	_	_	_	_	_
+

@@ -1,0 +1,18 @@
+1	Bell	_	NNP	_	_	8	SBJ	_	_
+2	,	_	,	_	_	1	P	_	_
+3	based	_	VBN	_	_	1	APPO	_	_
+4	in	_	IN	_	_	3	LOC	_	_
+5	Los	_	NNP	_	_	6	NAME	_	_
+6	Angeles	_	NNP	_	_	4	PMOD	_	_
+7	,	_	,	_	_	1	P	_	_
+8	makes	_	VBZ	_	_	0	ROOT	_	_
+9	and	_	CC	_	_	8	COORD	_	_
+10	distributes	_	VBZ	_	_	9	CONJ	_	_
+11	electronic	_	JJ	_	_	16	NMOD	_	_
+12	,	_	,	_	_	11	P	_	_
+13	computer	_	NN	_	_	11	COORD	_	_
+14	and	_	CC	_	_	13	COORD	_	_
+15	building	_	NN	_	_	14	CONJ	_	_
+16	products	_	NNS	_	_	8	OBJ	_	_
+17	.	_	.	_	_	8	P	_	_
+

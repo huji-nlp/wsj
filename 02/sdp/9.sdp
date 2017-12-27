@@ -1,0 +1,27 @@
+#20203001
+1	Investors	investor	NNS	-	-	n:x	ARG1	_	_	_	_	_	_	_	_	_	_	_
+2	are	are	VBP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	appealing	appeal	VBG	+	+	v_to:e-i-i-h	_	_	_	_	_	_	_	_	_	_	_	_
+4	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_
+6	Securities	_generic_proper_ne_	NNPS	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_
+7	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	Exchange	_generic_proper_ne_	NNP	-	-	named:x-c	_	_	_and_c	_	_	_	_	_	_	_	_	_
+9	Commission	_generic_proper_ne_	NNP	-	-	named:x-c	ARG2	BV	compound	_	ARG1	_	_	_	_	_	_	_
+10	not	not	RB	-	+	neg:e-h	ARG3	_	_	_	_	_	_	_	_	_	_	_
+11	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	limit	limit	VB	-	+	v:e-i-p	_	_	_	neg	_	_	_	_	_	_	_	_
+13	their	their	PRP$	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_
+14	access	access	NN	-	-	n:x	_	_	_	_	ARG2	poss	ARG1	_	_	_	_	_
+15	to	to	TO	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_
+16	information	information	NN	-	+	n_on-about:x-i	_	_	_	_	_	_	ARG2	_	_	_	_	_
+17	about	about	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	stock	stock	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_
+19	purchases	purchase	NNS	-	+	n_of:x-i	_	_	_	_	_	_	_	ARG1	compound	_	ARG1	_
+20	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	sales	sale	NNS	-	-	n_of:x-i	_	_	_	_	_	_	_	_	_	_and_c	_	_
+22	by	by	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_
+23	corporate	corporate	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_
+24	insiders	insider	NNS	-	-	n:x	_	_	_	_	_	_	_	_	_	_	ARG2	ARG1
+25	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+
