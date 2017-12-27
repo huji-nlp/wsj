@@ -1,0 +1,29 @@
+# sent_id = wsj_0012.11
+1	``	``	PUNCT	``	_	24	punct	_	_
+2	What	what	PRON	WP	_	3	nsubj	_	_
+3	matters	matter	VERB	VBZ	_	4	csubj	_	_
+4	is	be	VERB	VBZ	_	24	ccomp	_	_
+5	what	what	PRON	WP	_	8	dobj	_	_
+6	advertisers	advertiser	NOUN	NNS	_	8	nsubj	_	_
+7	are	be	AUX	VBP	_	8	aux	_	_
+8	paying	pay	VERB	VBG	_	4	ccomp	_	_
+9	per	per	ADP	IN	_	10	case	_	_
+10	page	page	NOUN	NN	_	8	nmod	_	_
+11	,	,	PUNCT	,	_	4	punct	_	_
+12	and	and	CONJ	CC	_	4	cc	_	_
+13	in	in	ADP	IN	_	15	case	_	_
+14	that	that	DET	DT	_	15	det	_	_
+15	department	department	NOUN	NN	_	18	nmod	_	_
+16	we	we	PRON	PRP	_	18	nsubj	_	_
+17	are	be	AUX	VBP	_	18	aux	_	_
+18	doing	do	VERB	VBG	_	4	conj	_	_
+19	fine	fine	ADV	RB	_	18	advmod	_	_
+20	this	this	DET	DT	_	21	det	_	_
+21	fall	fall	NOUN	NN	_	18	nmod:tmod	_	_
+22	,	,	PUNCT	,	_	24	punct	_	_
+23	''	''	PUNCT	''	_	24	punct	_	_
+24	said	say	VERB	VBD	_	0	root	_	_
+25	Mr.	Mr.	PROPN	NNP	_	26	nmod	_	_
+26	Spoon	Spoon	PROPN	NNP	_	24	nsubj	_	_
+27	.	.	PUNCT	.	_	24	punct	_	_
+

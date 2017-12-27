@@ -1,0 +1,21 @@
+# ::id nw.wsj_0004.1 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Yields on money - market mutual funds continued to slide , amid signs that portfolio managers expect further declines in interest rates .
+# ::alignments 0-1.1.1 0-1.1.1.1 0-1.1.1.1.r 1-1.1.1.1.1.r 2-1.1.1.1.1.2.1 4-1.1.1.1.1.2 5-1.1.1.1.1.1 6-1.1.1.1.1 7-1 9-1.1 11-1.2.r 12-1.2 13-1.2.1.r 14-1.2.1.1.1.1 15-1.2.1.1 15-1.2.1.1.1 15-1.2.1.1.1.r 16-1.2.1 17-1.2.1.2.2 18-1.2.1.2 19-1.2.1.2.1.r 20-1.2.1.2.1.1 21-1.2.1.2.1
+(c / continue-01~e.7 
+      :ARG1 (s / slide-02~e.9 
+            :ARG1 (t / thing~e.0 
+                  :ARG1-of~e.0 (y / yield-03~e.0 
+                        :ARG0~e.1 (f / fund~e.6 
+                              :mod (m2 / mutual~e.5) 
+                              :mod (m3 / market~e.4 
+                                    :mod (m4 / money~e.2)))))) 
+      :prep-amid~e.11 (s2 / signal-07~e.12 
+            :ARG1~e.13 (e / expect-01~e.16 
+                  :ARG0 (p / person~e.15 
+                        :ARG0-of~e.15 (m / manage-01~e.15 
+                              :ARG1 (p2 / portfolio~e.14))) 
+                  :ARG1 (d / decline-01~e.18 
+                        :ARG1~e.19 (r / rate~e.21 
+                              :mod (i / interest~e.20)) 
+                        :degree (f2 / further~e.17)))))
+

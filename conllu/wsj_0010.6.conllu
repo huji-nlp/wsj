@@ -1,0 +1,33 @@
+# sent_id = wsj_0010.6
+1	On	on	ADP	IN	_	4	case	_	_
+2	the	the	DET	DT	_	4	det	_	_
+3	receiving	receive	VERB	VBG	_	4	amod	_	_
+4	end	end	NOUN	NN	_	8	nmod	_	_
+5	of	of	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	message	message	NOUN	NN	_	4	nmod	_	_
+8	were	be	VERB	VBD	_	0	root	_	_
+9	officials	official	NOUN	NNS	_	8	nsubj	_	_
+10	from	from	ADP	IN	_	11	case	_	_
+11	giants	giant	NOUN	NNS	_	9	nmod	_	_
+12	like	like	ADP	IN	_	14	case	_	_
+13	Du	Du	PROPN	NNP	_	14	compound	_	_
+14	Pont	Pont	PROPN	NNP	_	11	nmod	_	_
+15	and	and	CONJ	CC	_	14	cc	_	_
+16	Maytag	Maytag	PROPN	NNP	_	14	conj	_	_
+17	,	,	PUNCT	,	_	11	punct	_	_
+18	along	along	ADP	IN	_	11	cc	_	_
+19	with	with	ADP	IN	_	18	dep	_	_
+20	lesser	lesser	ADJ	JJR	_	21	amod	_	_
+21	knowns	known	NOUN	NNS	_	11	conj	_	_
+22	like	like	ADP	IN	_	24	case	_	_
+23	Trojan	Trojan	PROPN	NNP	_	24	compound	_	_
+24	Steel	Steel	PROPN	NNP	_	21	nmod	_	_
+25	and	and	CONJ	CC	_	24	cc	_	_
+26	the	the	DET	DT	_	30	det	_	_
+27	Valley	Valley	PROPN	NNP	_	30	compound	_	_
+28	Queen	Queen	PROPN	NNP	_	30	compound	_	_
+29	Cheese	Cheese	PROPN	NNP	_	30	compound	_	_
+30	Factory	Factory	PROPN	NNP	_	24	conj	_	_
+31	.	.	PUNCT	.	_	8	punct	_	_
+

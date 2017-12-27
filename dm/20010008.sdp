@@ -1,0 +1,7 @@
+#20010008
+1	Champagne	champagne	NNP	-	+	n:x	_	ARG1
+2	and	and	CC	-	-	_	_	_
+3	dessert	dessert	NN	-	-	n:x	_and_c	_
+4	followed	follow	VBD	+	+	v:e-i-p	_	_
+5	.	_	.	-	-	_	_	_
+

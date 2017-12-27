@@ -1,0 +1,14 @@
+# ::id nw.wsj_0003.12 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok From 1953 to 1955 , 9.8 billion Kent cigarettes with the filters were sold , the company said .
+# ::alignments 0-1.2.2.1.r 1-1.2.2.1.1 2-1.2.2.2.r 3-1.2.2.2.1 5-1.2.1.1 6-1.2.1.1 7-1.2.1.3.1 8-1.2.1 9-1.2.1.4.r 11-1.2.1.4 11-1.2.1.4.1 11-1.2.1.4.1.r 13-1.2 16-1.1 17-1
+(s / say-01~e.17 
+      :ARG0 (c / company~e.16) 
+      :ARG1 (s2 / sell-01~e.13 
+            :ARG1 (c2 / cigarette~e.8 :quant 9800000000~e.5,6 :wiki "Kent_(cigarette)" 
+                  :name (k / name :op1 "Kent"~e.7) 
+                  :part~e.9 (p / product~e.11 
+                        :ARG0-of~e.11 (f / filter-02~e.11))) 
+            :time (d / date-interval 
+                  :op1~e.0 (d2 / date-entity :year 1953~e.1) 
+                  :op2~e.2 (d3 / date-entity :year 1955~e.3))))
+

@@ -1,0 +1,21 @@
+# sent_id = wsj_0003.12
+1	From	from	ADP	IN	_	2	case	_	_
+2	1953	1953	NUM	CD	_	14	nmod	_	_
+3	to	to	ADP	TO	_	4	case	_	_
+4	1955	1955	NUM	CD	_	2	nmod	_	_
+5	,	,	PUNCT	,	_	14	punct	_	_
+6	9.8	9.8	NUM	CD	_	7	compound	_	_
+7	billion	billion	NUM	CD	_	9	nummod	_	_
+8	Kent	Kent	PROPN	NNP	_	9	compound	_	_
+9	cigarettes	cigarette	NOUN	NNS	_	14	nsubjpass	_	_
+10	with	with	ADP	IN	_	12	case	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	filters	filter	NOUN	NNS	_	9	nmod	_	_
+13	were	be	AUX	VBD	_	14	auxpass	_	_
+14	sold	sell	VERB	VBN	_	18	ccomp	_	_
+15	,	,	PUNCT	,	_	18	punct	_	_
+16	the	the	DET	DT	_	17	det	_	_
+17	company	company	NOUN	NN	_	18	nsubj	_	_
+18	said	say	VERB	VBD	_	0	root	_	_
+19	.	.	PUNCT	.	_	18	punct	_	_
+

@@ -1,0 +1,25 @@
+# ::id nw.wsj_0010.6 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok On the receiving end of the message were officials from giants like Du Pont and Maytag , along with lesser knowns like Trojan Steel and the Valley Queen Cheese Factory .
+# ::alignments 2-1 4-1.2.r 6-1.2 6-1.2.1 6-1.2.1.r 8-1.1.1.2 10-1.1.1.1.1 11-1.1.1.1.1.1.r 12-1.1.1.1.1.1.1.2.1 13-1.1.1.1.1.1.1.2.2 14-1.1.1.1.1.1 15-1.1.1.1.1.1.2.2.1 19-1.1.1.1.2.1.1 21-1.1.1.1.2.2.r 22-1.1.1.1.2.2.1.2.1 23-1.1.1.1.2.2.1.2.2 24-1.1.1.1.2.2 26-1.1.1.1.2.2.2.2.1 27-1.1.1.1.2.2.2.2.2 28-1.1.1.1.2.2.2.2.3 29-1.1.1.1.2.2.2.2.4
+(r / receive-01~e.2 
+      :ARG0 (p / person 
+            :ARG0-of (h / have-org-role-91 
+                  :ARG1 (a3 / and 
+                        :op1 (g / giant~e.10 
+                              :example~e.11 (a / and~e.14 
+                                    :op1 (c / company :wiki "DuPont" 
+                                          :name (d / name :op1 "Du"~e.12 :op2 "Pont"~e.13)) 
+                                    :op2 (c2 / company :wiki "Maytag" 
+                                          :name (m / name :op1 "Maytag"~e.15)))) 
+                        :op2 (c5 / company 
+                              :ARG1-of (k / know-02 
+                                    :degree (l / less~e.19)) 
+                              :example~e.21 (a2 / and~e.24 
+                                    :op1 (c3 / company :wiki - 
+                                          :name (t / name :op1 "Trojan"~e.22 :op2 "Steel"~e.23)) 
+                                    :op2 (c4 / company :wiki - 
+                                          :name (v / name :op1 "Valley"~e.26 :op2 "Queen"~e.27 :op3 "Cheese"~e.28 :op4 "Factory"~e.29))))) 
+                  :ARG2 (o5 / official~e.8))) 
+      :ARG1~e.4 (t2 / thing~e.6 
+            :ARG1-of~e.6 (m3 / message-01~e.6)))
+

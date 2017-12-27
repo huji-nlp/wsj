@@ -1,0 +1,25 @@
+# sent_id = wsj_0004.9
+1	The	the	DET	DT	_	2	det	_	_
+2	yield	yield	NOUN	NN	_	16	nsubj	_	_
+3	on	on	ADP	IN	_	6	case	_	_
+4	six-month	six-month	ADJ	JJ	_	6	amod	_	_
+5	Treasury	Treasury	PROPN	NNP	_	6	compound	_	_
+6	bills	bill	NOUN	NNS	_	2	nmod	_	_
+7	sold	sell	VERB	VBN	_	6	acl	_	_
+8	at	at	ADP	IN	_	11	case	_	_
+9	Monday	Monday	PROPN	NNP	_	11	nmod:poss	_	_
+10	's	's	PART	POS	_	9	case	_	_
+11	auction	auction	NOUN	NN	_	7	nmod	_	_
+12	,	,	PUNCT	,	_	16	punct	_	_
+13	for	for	ADP	IN	_	14	case	_	_
+14	example	example	NOUN	NN	_	16	nmod	_	_
+15	,	,	PUNCT	,	_	16	punct	_	_
+16	rose	rise	VERB	VBD	_	0	root	_	_
+17	to	to	ADP	TO	_	19	case	_	_
+18	8.04	8.04	NUM	CD	_	19	nummod	_	_
+19	%	%	SYM	NN	_	16	nmod	_	_
+20	from	from	ADP	IN	_	22	case	_	_
+21	7.90	7.90	NUM	CD	_	22	nummod	_	_
+22	%	%	SYM	NN	_	16	nmod	_	_
+23	.	.	PUNCT	.	_	16	punct	_	_
+

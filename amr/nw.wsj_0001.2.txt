@@ -1,0 +1,13 @@
+# ::id nw.wsj_0001.2 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Mr. Vinken is chairman of Elsevier N.V. , the Dutch publishing group .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1 3-1.3 4-1 5-1.2.2.1 6-1.2.2.2 9-1.2.3.2.1 10-1.2.4 11-1.2
+(h / have-org-role-91~e.2,4 
+      :ARG0 (p / person :wiki - 
+            :name (m / name :op1 "Mr."~e.0 :op2 "Vinken"~e.1)) 
+      :ARG1 (g / group~e.11 :wiki "Reed_Elsevier#Elsevier_NV" 
+            :name (e / name :op1 "Elsevier"~e.5 :op2 "N.V."~e.6) 
+            :mod (c / country :wiki "Netherlands" 
+                  :name (n / name :op1 "Netherlands"~e.9)) 
+            :ARG0-of (p2 / publish-01~e.10)) 
+      :ARG2 (c2 / chairman~e.3))
+

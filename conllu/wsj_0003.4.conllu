@@ -1,0 +1,37 @@
+# sent_id = wsj_0003.4
+1	Although	although	SCONJ	IN	_	5	mark	_	_
+2	preliminary	preliminary	ADJ	JJ	_	3	amod	_	_
+3	findings	finding	NOUN	NNS	_	5	nsubjpass	_	_
+4	were	be	AUX	VBD	_	5	auxpass	_	_
+5	reported	report	VERB	VBN	_	15	advcl	_	_
+6	more	more	ADV	RBR	_	8	advmod	_	_
+7	than	than	ADP	IN	_	6	mwe	_	_
+8	a	a	DET	DT	_	9	nummod	_	_
+9	year	year	NOUN	NN	_	5	advmod	_	_
+10	ago	ago	ADP	IN	_	9	case	_	_
+11	,	,	PUNCT	,	_	15	punct	_	_
+12	the	the	DET	DT	_	14	det	_	_
+13	latest	latest	ADJ	JJS	_	14	amod	_	_
+14	results	result	NOUN	NNS	_	15	nsubj	_	_
+15	appear	appear	VERB	VBP	_	0	root	_	_
+16	in	in	ADP	IN	_	21	case	_	_
+17	today	today	NOUN	NN	_	21	nmod:poss	_	_
+18	's	's	PART	POS	_	17	case	_	_
+19	New	New	PROPN	NNP	_	21	compound	_	_
+20	England	England	PROPN	NNP	_	21	compound	_	_
+21	Journal	Journal	PROPN	NNP	_	15	nmod	_	_
+22	of	of	ADP	IN	_	23	case	_	_
+23	Medicine	Medicine	PROPN	NNP	_	21	nmod	_	_
+24	,	,	PUNCT	,	_	21	punct	_	_
+25	a	a	DET	DT	_	26	det	_	_
+26	forum	forum	NOUN	NN	_	21	appos	_	_
+27	likely	likely	ADJ	JJ	_	26	amod	_	_
+28	to	to	PART	TO	_	29	mark	_	_
+29	bring	bring	VERB	VB	_	27	xcomp	_	_
+30	new	new	ADJ	JJ	_	31	amod	_	_
+31	attention	attention	NOUN	NN	_	29	dobj	_	_
+32	to	to	ADP	TO	_	34	case	_	_
+33	the	the	DET	DT	_	34	det	_	_
+34	problem	problem	NOUN	NN	_	29	nmod	_	_
+35	.	.	PUNCT	.	_	15	punct	_	_
+

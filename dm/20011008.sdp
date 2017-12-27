@@ -1,0 +1,13 @@
+#20011008
+1	Imports	import	NNS	-	-	n_of:x-i	ARG1	_	_	_	_
+2	were	were	VBD	-	-	_	_	_	_	_	_
+3	at	at	IN	+	+	p:e-u-i	_	_	_	ARG1	_
+4	$	$	$	-	-	n:x	ARG2	_	ARG1	_	_
+5	50.38	_generic_cd_	CD	-	+	card:i-i-c	_	_	_	_	_
+6	billion	billion	CD	-	+	card:i-i-c	_	times	_	_	_
+7	,	_	,	-	-	_	_	_	_	_	_
+8	up	up	RB	-	+	p:e-u-i	_	_	_	_	_
+9	19	_generic_card_ne_	CD	-	+	card:i-i-c	_	_	_	_	_
+10	%	%	NN	-	-	n_of:x	_	_	_	ARG2	ARG1
+11	.	_	.	-	-	_	_	_	_	_	_
+

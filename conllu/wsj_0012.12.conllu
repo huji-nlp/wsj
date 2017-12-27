@@ -1,0 +1,29 @@
+# sent_id = wsj_0012.12
+1	Both	both	DET	DT	_	2	cc:preconj	_	_
+2	Newsweek	Newsweek	PROPN	NNP	_	8	nsubj	_	_
+3	and	and	CONJ	CC	_	2	cc	_	_
+4	U.S.	U.S.	PROPN	NNP	_	5	compound	_	_
+5	News	News	PROPN	NNP	_	2	conj	_	_
+6	have	have	AUX	VBP	_	8	aux	_	_
+7	been	be	AUX	VBN	_	8	aux	_	_
+8	gaining	gain	VERB	VBG	_	0	root	_	_
+9	circulation	circulation	NOUN	NN	_	8	dobj	_	_
+10	in	in	ADP	IN	_	12	case	_	_
+11	recent	recent	ADJ	JJ	_	12	amod	_	_
+12	years	year	NOUN	NNS	_	8	nmod	_	_
+13	without	without	ADP	IN	_	15	case	_	_
+14	heavy	heavy	ADJ	JJ	_	15	amod	_	_
+15	use	use	NOUN	NN	_	8	nmod	_	_
+16	of	of	ADP	IN	_	18	case	_	_
+17	electronic	electronic	ADJ	JJ	_	18	amod	_	_
+18	giveaways	giveaway	NOUN	NNS	_	15	nmod	_	_
+19	to	to	ADP	TO	_	20	case	_	_
+20	subscribers	subscriber	NOUN	NNS	_	18	nmod	_	_
+21	,	,	PUNCT	,	_	18	punct	_	_
+22	such	such	ADJ	JJ	_	24	case	_	_
+23	as	as	ADP	IN	_	22	mwe	_	_
+24	telephones	telephone	NOUN	NNS	_	18	nmod	_	_
+25	or	or	CONJ	CC	_	24	cc	_	_
+26	watches	watch	NOUN	NNS	_	24	conj	_	_
+27	.	.	PUNCT	.	_	8	punct	_	_
+

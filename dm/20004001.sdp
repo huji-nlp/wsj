@@ -1,0 +1,23 @@
+#20004001
+1	Yields	yield	NNS	-	-	n:x	ARG1	_	_	_	ARG1	_	_	_	_	_	_	_
+2	on	on	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_
+3	money-market	market	JJ	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_
+4	mutual	mutual	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_
+5	funds	fund	NNS	-	-	n:x	ARG2	compound	ARG1	_	_	_	_	_	_	_	_	_
+6	continued	continue	VBD	+	+	v:e-h	_	_	_	_	_	_	_	_	_	_	_	_
+7	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	slide	slide	VB	-	+	v:e-i	_	_	_	ARG1	_	ARG1	_	_	_	_	_	_
+9	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	amid	amid	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_
+11	signs	sign	NNS	-	+	n_of:x-h	_	_	_	_	_	ARG2	_	_	_	_	_	_
+12	that	that	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	portfolio	portfolio	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_
+14	managers	manager	NNS	-	-	n_of:x-i	_	_	_	_	_	_	_	compound	ARG1	_	_	_
+15	expect	expect	VBP	-	+	v:e-i-p	_	_	_	_	_	_	ARG1	_	_	_	_	_
+16	further	further	JJ	-	+	a:e-i-i	_	_	_	_	_	_	_	_	_	_	_	_
+17	declines	decline	NNS	-	-	n:x	_	_	_	_	_	_	_	_	ARG2	ARG1	ARG1	_
+18	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_
+19	interest	interest	NN	-	+	n_in:x-i	_	_	_	_	_	_	_	_	_	_	_	_
+20	rates	rate	NNS	-	-	n_of:x-i	_	_	_	_	_	_	_	_	_	_	ARG2	compound
+21	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+

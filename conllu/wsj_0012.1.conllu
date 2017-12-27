@@ -1,0 +1,31 @@
+# sent_id = wsj_0012.1
+1	Newsweek	Newsweek	PROPN	NNP	_	12	nsubj	_	_
+2	,	,	PUNCT	,	_	12	punct	_	_
+3	trying	try	VERB	VBG	_	12	advcl	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	keep	keep	VERB	VB	_	3	xcomp	_	_
+6	pace	pace	NOUN	NN	_	5	dobj	_	_
+7	with	with	ADP	IN	_	8	case	_	_
+8	rival	rival	ADJ	JJ	_	5	nmod	_	_
+9	Time	Time	PROPN	NNP	_	10	compound	_	_
+10	magazine	magazine	NOUN	NN	_	8	dep	_	_
+11	,	,	PUNCT	,	_	12	punct	_	_
+12	announced	announce	VERB	VBD	_	0	root	_	_
+13	new	new	ADJ	JJ	_	15	amod	_	_
+14	advertising	advertising	NOUN	NN	_	15	compound	_	_
+15	rates	rate	NOUN	NNS	_	12	dobj	_	_
+16	for	for	ADP	IN	_	17	case	_	_
+17	1990	1990	NUM	CD	_	15	nmod	_	_
+18	and	and	CONJ	CC	_	12	cc	_	_
+19	said	say	VERB	VBD	_	12	conj	_	_
+20	it	it	PRON	PRP	_	22	nsubj	_	_
+21	will	will	AUX	MD	_	22	aux	_	_
+22	introduce	introduce	VERB	VB	_	19	ccomp	_	_
+23	a	a	DET	DT	_	26	det	_	_
+24	new	new	ADJ	JJ	_	26	amod	_	_
+25	incentive	incentive	NOUN	NN	_	26	compound	_	_
+26	plan	plan	NOUN	NN	_	22	dobj	_	_
+27	for	for	ADP	IN	_	28	case	_	_
+28	advertisers	advertiser	NOUN	NNS	_	26	nmod	_	_
+29	.	.	PUNCT	.	_	12	punct	_	_
+

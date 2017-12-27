@@ -1,0 +1,34 @@
+# ::id nw.wsj_0003.1 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok A form of asbestos once used to make Kent cigarette filters has caused a high percentage of cancer deaths among a group of workers exposed to it more than 30 years ago , researchers reported .
+# ::alignments 1-1.2.1.1 2-1.2.1.1.r 3-1.2.1 4-1.2.1.2.2 5-1.2.1.2 7-1.2.1.2 7-1.2.1.2.1 7-1.2.1.2.1.r 8-1.2.1.2.1.1.2.2.1 9-1.2.1.2.1.1.2 10-1.2.1.2.1.1 10-1.2.1.2.1.1.1 10-1.2.1.2.1.1.1.r 12-1.2 12-1.2.2.1.1.1.1 14-1.2.2.2 15-1.2.2 16-1.2.2.1.1.1.1.1.r 17-1.2.2.1.1.1.1.1.2.1 18-1.2.2.1.1 18-1.2.2.1.1.1 18-1.2.2.1.1.1.r 19-1.2.2.1 23-1.2.2.1.2 23-1.2.2.1.2.1 23-1.2.2.1.2.1.r 24-1.2.2.1.2.2 25-1.2.2.1.2.2.1.r 26-1.2.2.1.2.2.1 27-1.2.2.1.2.2.2.2 28-1.2.2.1.2.2.2.2 29-1.2.2.1.2.2.2.2.1.1 30-1.2.2.1.2.2.2.2.1.2 31-1.2.2.1.2.2.2 31-1.2.2.1.2.2.2.1 31-1.2.2.1.2.2.2.1.r 33-1.1 33-1.1.1 33-1.1.1.r 34-1
+(r / report-01~e.34 
+      :ARG0 (p4 / person~e.33 
+            :ARG0-of~e.33 (r2 / research-01~e.33)) 
+      :ARG1 (c / cause-01~e.12 
+            :ARG0 (a2 / asbestos~e.3 
+                  :mod~e.2 (f / form~e.1) 
+                  :ARG1-of (u / use-01~e.5,7 
+                        :ARG2~e.7 (m / make-01~e.7 
+                              :ARG1 (p / product~e.10 
+                                    :ARG0-of~e.10 (f2 / filter-02~e.10) 
+                                    :mod (c2 / cigarette~e.9 :wiki "Kent_(cigarette)" 
+                                          :name (n / name :op1 "Kent"~e.8)))) 
+                        :time (o / once~e.4))) 
+            :ARG1 (p3 / percentage~e.15 
+                  :ARG3-of (i / include-91~e.19 
+                        :ARG1 (p7 / person~e.18 
+                              :ARG1-of~e.18 (d / die-01~e.18 
+                                    :ARG1-of (c4 / cause-01~e.12 
+                                          :ARG0~e.16 (d2 / disease :wiki "Cancer" 
+                                                :name (n3 / name :op1 "cancer"~e.17))))) 
+                        :ARG2 (p6 / person~e.23 
+                              :ARG0-of~e.23 (w2 / work-01~e.23) 
+                              :ARG1-of (e / expose-01~e.24 
+                                    :ARG2~e.25 a2~e.26 
+                                    :time (b / before~e.31 
+                                          :op1~e.31 (n2 / now~e.31) 
+                                          :quant (m2 / more-than~e.27,28 
+                                                :op1 (t / temporal-quantity :quant 30~e.29 
+                                                      :unit (y / year~e.30))))))) 
+                  :ARG1-of (h / high-02~e.14))))
+

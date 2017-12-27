@@ -1,0 +1,21 @@
+#20003012
+1	From	from	IN	-	+	p:e-u-x	_	_	_	_	_	_	_	_	_	_
+2	1953	_generic_year_ne_	CD	-	-	yofc:x-c	ARG2	_	_	_	_	_	_	_	_	_
+3	to	to	TO	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_
+4	1955	_generic_year_ne_	CD	-	-	yofc:x-c	_	ARG2	_	_	_	_	_	_	_	_
+5	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_
+6	9.8	_generic_card_ne_	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_
+7	billion	billion	CD	-	+	card:i-i-c	_	_	times	_	_	_	_	_	_	_
+8	Kent	Kent	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_
+9	cigarettes	cigarette	NNS	-	-	n:x	_	_	_	ARG1	compound	ARG1	_	ARG2	_	_
+10	with	with	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_
+11	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_
+12	filters	filter	NNS	-	-	n:x	_	_	_	_	_	ARG2	BV	_	_	_
+13	were	were	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_
+14	sold	sell	VBN	-	+	v:e-i-p	ARG1	ARG1	_	_	_	_	_	_	_	ARG2
+15	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_
+16	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_
+17	company	company	NN	-	-	n_of:x-i	_	_	_	_	_	_	_	_	BV	ARG1
+18	said	say	VBD	+	+	v_to:e-i-h-i	_	_	_	_	_	_	_	_	_	_
+19	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_
+

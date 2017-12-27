@@ -1,0 +1,6 @@
+# ::id nw.wsj_0010.2 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Not this year .
+# ::alignments 0-1.1 0-1.1.r 1-1.2 2-1
+(y / year~e.2 :polarity~e.0 -~e.0 
+      :mod (t / this~e.1))
+

@@ -1,7 +1,0 @@
-#20200002
-1	Ms.	ms.	NNP	-	+	n:x	_	_
-2	Haag	_generic_proper_ne_	NNP	-	-	named:x-c	compound	ARG1
-3	plays	play	VBZ	+	+	v:e-i-p	_	_
-4	Elianti	_generic_proper_ne_	NNP	-	-	named:x-c	_	ARG2
-5	.	_	.	-	-	_	_	_
-

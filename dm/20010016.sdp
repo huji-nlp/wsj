@@ -1,0 +1,16 @@
+#20010016
+1	This	this	DT	-	+	q_dem:i-h-h	_	_	_	_	_	_
+2	time	time	NN	-	+	n_of:x	BV	_	_	_	_	_
+3	,	_	,	-	-	_	_	_	_	_	_	_
+4	it	it	PRP	-	-	pron:x	_	_	ARG1	_	_	_
+5	was	was	VBD	-	-	_	_	_	_	_	_	_
+6	for	for	IN	+	+	p:e-u-i	_	loc	_	_	_	_
+7	dinner	dinner	NN	-	+	n:x	_	_	ARG2	_	_	_
+8	and	and	CC	-	-	_	_	_	_	_	_	_
+9	dancing	dance	NN	-	-	v:e-i-p	_	_	_	_and_c	_	_
+10	–	–	:	-	-	_	_	_	_	_	_	_
+11	a	a	DT	-	+	card:i-i-c	_	_	_	_	_	_
+12	block	block	NN	-	-	n:x	_	_	conj	_	ARG1	ARG1
+13	away	away	RB	-	+	p:e-i	_	_	_	_	_	_
+14	.	_	.	-	-	_	_	_	_	_	_	_
+

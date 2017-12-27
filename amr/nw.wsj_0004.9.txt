@@ -1,0 +1,18 @@
+# ::id nw.wsj_0004.9 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok The yield on six - month Treasury bills sold at Monday 's auction , for example , rose to 8.04 % from 7.90 % .
+# ::alignments 1-1.1 1-1.1.1 1-1.1.1.r 2-1.1.1.1.r 3-1.1.1.1.2.1 5-1.1.1.1.2 5-1.1.1.1.2.2 5-1.1.1.1.2.2.r 6-1.1.1.1.1.2.1 7-1.1.1.1 9-1.1.1.1.3.r 10-1.1.1.1.3.1.1 11-1.1.1.1.3.1.r 12-1.1.1.1.3 14-1.4 15-1.4 17-1 18-1.3.r 19-1.3.1 20-1.3 21-1.2.r 22-1.2.1 23-1.2
+(r / rise-01~e.17 
+      :ARG1 (t3 / thing~e.1 
+            :ARG1-of~e.1 (y2 / yield-03~e.1 
+                  :ARG0~e.2 (b / bill~e.7 
+                        :mod (g / government-organization :wiki "United_States_Department_of_the_Treasury" 
+                              :name (t2 / name :op1 "Treasury"~e.6)) 
+                        :mod (t / temporal-quantity~e.5 :quant 6~e.3 
+                              :unit~e.5 (m / month~e.5)) 
+                        :ARG1-of~e.9 (a / auction-02~e.12 
+                              :time~e.11 (d / date-entity 
+                                    :weekday (m2 / monday~e.10)))))) 
+      :ARG3~e.21 (p2 / percentage-entity~e.23 :value 7.90~e.22) 
+      :ARG4~e.18 (p / percentage-entity~e.20 :value 8.04~e.19) 
+      :ARG0-of (e / exemplify-01~e.14,15))
+

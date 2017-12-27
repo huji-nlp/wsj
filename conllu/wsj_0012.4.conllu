@@ -1,0 +1,22 @@
+# sent_id = wsj_0012.4
+1	Alan	Alan	PROPN	NNP	_	9	nsubj	_	_
+2	Spoon	Spoon	PROPN	NNP	_	1	name	_	_
+3	,	,	PUNCT	,	_	1	punct	_	_
+4	recently	recently	ADV	RB	_	5	advmod	_	_
+5	named	name	VERB	VBN	_	1	acl:relcl	_	_
+6	Newsweek	Newsweek	PROPN	NNP	_	7	compound	_	_
+7	president	president	NOUN	NN	_	5	xcomp	_	_
+8	,	,	PUNCT	,	_	1	punct	_	_
+9	said	say	VERB	VBD	_	0	root	_	_
+10	Newsweek	Newsweek	PROPN	NNP	_	13	nmod:poss	_	_
+11	's	's	PART	POS	_	10	case	_	_
+12	ad	ad	NOUN	NN	_	13	compound	_	_
+13	rates	rate	NOUN	NNS	_	15	nsubj	_	_
+14	would	would	AUX	MD	_	15	aux	_	_
+15	increase	increase	VERB	VB	_	9	ccomp	_	_
+16	5	5	NUM	CD	_	17	nummod	_	_
+17	%	%	SYM	NN	_	15	dobj	_	_
+18	in	in	ADP	IN	_	19	case	_	_
+19	January	January	PROPN	NNP	_	15	nmod	_	_
+20	.	.	PUNCT	.	_	9	punct	_	_
+

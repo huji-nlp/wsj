@@ -1,0 +1,13 @@
+# ::id nw.wsj_0003.5 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok A Lorillard spokewoman said , `` This is an old story .
+# ::alignments 1-1.1.1.1.2.1 2-1.1.1.2 3-1 6-1.2.1 7-1.2.1.r 9-1.2.2 10-1.2
+(s / say-01~e.3 
+      :ARG0 (p / person 
+            :ARG0-of (h / have-org-role-91 
+                  :ARG1 (c / company :wiki "Lorillard_Tobacco_Company" 
+                        :name (l / name :op1 "Lorillard"~e.1)) 
+                  :ARG2 (s2 / spokeswoman~e.2))) 
+      :ARG1 (s3 / story~e.10 
+            :domain~e.7 (t / this~e.6) 
+            :mod (o2 / old~e.9)))
+

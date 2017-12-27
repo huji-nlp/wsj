@@ -1,0 +1,23 @@
+#20004012
+1	Typically	typically	RB	+	+	a:e-h	_	_	_	_	_	_	_	_	_	_	_	_
+2	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	money-fund	fund	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_
+4	yields	yield	NNS	-	-	n:x	_	compound	ARG1	_	_	_	_	_	_	_	_	_
+5	beat	beat	VBP	-	+	v_to:e-i-p	_	_	_	_	_	ARG1	_	_	_	_	_	_
+6	comparable	comparable	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_
+7	short-term	term	JJ	-	+	n_of:x-i	_	_	_	_	_	_	_	_	_	_	_	_
+8	investments	investment	NNS	-	-	n:x	_	_	ARG2	ARG1	compound	_	_	_	_	_	_	_
+9	because	because	IN	-	+	x:e-h-h	ARG1	_	_	_	_	_	_	_	_	_	_	_
+10	portfolio	portfolio	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_
+11	managers	manager	NNS	-	-	n_of:x-i	_	_	_	_	_	_	compound	_	ARG1	ARG1	_	_
+12	can	can	MD	-	+	v_modal:e-h	_	_	_	_	_	ARG2	_	_	_	_	_	_
+13	vary	vary	VB	-	+	v_cause:e-i-p	_	_	_	_	_	_	_	ARG1	_	_	_	_
+14	maturities	maturity	NNS	-	-	n:x	_	_	_	_	_	_	_	_	ARG2	_	_	_
+15	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	go	go	VB	-	+	v_after:e-i-i	_	_	_	_	_	_	_	_	_and_c	_	_	_
+17	after	after	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_
+19	highest	highest	JJS	-	+	a:e-i	_	_	_	_	_	_	_	_	_	_	_	_
+20	rates	rate	NNS	-	-	n_of:x-i	_	_	_	_	_	_	_	_	_	ARG2	BV	ARG1
+21	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+

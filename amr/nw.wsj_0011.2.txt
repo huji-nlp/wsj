@@ -1,0 +1,27 @@
+# ::id nw.wsj_0011.2 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Preliminary tallies by the Trade and Industry Ministry showed another trade deficit in October , the fifth monthly setback this year , casting a cloud on South Korea 's export - oriented economy .
+# ::alignments 0-1.1.2 1-1.1 2-1.1.1.r 4-1.1.1.2.1 5-1.1.1.2.2 6-1.1.1.2.3 7-1.1.1.2.4 8-1 9-1.2.2 10-1.2.1 11-1.2 12-1.2.5.r 13-1.2.5.1 13-1.2.5.1.r 16-1.2.3.1 16-1.2.3.1.1 16-1.2.3.1.1.r 17-1.2.3.2 17-1.2.3.2.1 17-1.2.3.2.1.r 17-1.2.3.2.2 17-1.2.3.2.2.1 17-1.2.3.2.2.1.r 17-1.2.3.2.2.2 17-1.2.3.2.2.2.r 17-1.2.3.2.2.r 18-1.2.3 19-1.2.3.1.2.1 20-1.2.3.1.2 22-1.2.4 24-1.2.4.1 25-1.2.4.2.r 26-1.2.4.2.2.2.1 27-1.2.4.2.2.2.2 28-1.2.4.2.2.r 29-1.2.4.2.1.1 31-1.2.4.2.1 32-1.2.4.2
+(s2 / show-01~e.8 
+      :ARG0 (t2 / tally-01~e.1 
+            :ARG0~e.2 (g / government-organization :wiki "Ministry_of_Trade,_Industry_and_Energy_(South_Korea)" 
+                  :name (t / name :op1 "Trade"~e.4 :op2 "and"~e.5 :op3 "Industry"~e.6 :op4 "Ministry"~e.7)) 
+            :mod (p / preliminary~e.0)) 
+      :ARG1 (d2 / deficit~e.11 
+            :mod (t3 / trade-01~e.10) 
+            :mod (a2 / another~e.9) 
+            :mod (s3 / setback~e.18 
+                  :ord (o2 / ordinal-entity~e.16 :value~e.16 5~e.16 
+                        :range (y / year~e.20 
+                              :mod (t4 / this~e.19))) 
+                  :frequency (r / rate-entity-91~e.17 :ARG1~e.17 1~e.17 
+                        :ARG2~e.17 (t5 / temporal-quantity~e.17 :quant~e.17 1~e.17 
+                              :unit~e.17 (m2 / month~e.17)))) 
+            :ARG0-of (c2 / cast-01~e.22 
+                  :ARG1 (c3 / cloud~e.24) 
+                  :ARG2~e.25 (e / economy~e.32 
+                        :ARG1-of (o / orient-01~e.31 
+                              :ARG2 (e2 / export-01~e.29)) 
+                        :poss~e.28 (c / country :wiki "South_Korea" 
+                              :name (s / name :op1 "South"~e.26 :op2 "Korea"~e.27)))) 
+            :time~e.12 (d / date-entity :month~e.13 10~e.13)))
+

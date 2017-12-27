@@ -1,0 +1,15 @@
+# ::id nw.wsj_0003.22 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok In July , the Environmental Protection Agency imposed a gradual ban on virtually all uses of asbestos .
+# ::alignments 1-1.3.1 1-1.3.1.r 4-1.1.2.1 5-1.1.2.2 6-1.1.2.3 7-1 9-1.2.2 10-1.2 11-1.2.1.r 12-1.2.1.2.1.1 13-1.2.1.2.1 14-1.2.1 15-1.2.1.1.r 16-1.2.1.1
+(i / impose-01~e.7 
+      :ARG0 (g2 / government-organization :wiki "United_States_Environmental_Protection_Agency" 
+            :name (e / name :op1 "Environmental"~e.4 :op2 "Protection"~e.5 :op3 "Agency"~e.6)) 
+      :ARG1 (b2 / ban-01~e.10 
+            :ARG1~e.11 (u3 / use-01~e.14 
+                  :ARG1~e.15 (a5 / asbestos~e.16) 
+                  :ARG2 (t2 / thing 
+                        :mod (a6 / all~e.13 
+                              :degree (v3 / virtual~e.12)))) 
+            :manner (g3 / gradual~e.9)) 
+      :time (d / date-entity :month~e.1 7~e.1))
+

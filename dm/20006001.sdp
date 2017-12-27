@@ -1,0 +1,28 @@
+#20006001
+1	Pacific	Pacific	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	First	_generic_proper_ne_	NNP	-	+	named:x-c	compound	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Financial	_generic_proper_ne_	NNP	-	-	named:x-c	_	compound	compound	ARG1	_	_	_	_	_	_	_	_	_	_	_	_
+4	Corp.	corp.	NNP	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	said	say	VBD	+	+	v_to:e-i-h-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	shareholders	shareholder	NNS	-	-	n:x	_	_	_	_	ARG1	_	_	_	_	_	_	_	_	_	_	_
+7	approved	approve	VBD	-	+	v:e-i-p	_	_	_	ARG2	_	_	_	_	_	_	_	_	_	_	_	_
+8	its	its	PRP$	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	acquisition	acquisition	NN	-	-	n_of:x-i	_	_	_	_	ARG2	poss	ARG1	_	_	_	ARG1	_	_	_	_	_
+10	by	by	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Royal	Royal	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	Trustco	_generic_proper_ne_	NNP	-	-	named:x-c	_	_	_	_	_	_	ARG2	compound	compound	ARG1	_	_	_	_	_	_
+13	Ltd.	ltd.	NNP	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	of	of	IN	-	+	p:e-x-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	Toronto	Toronto	NNP	-	-	named:x-c	_	_	_	_	_	_	_	_	_	ARG2	_	_	_	_	_	_
+16	for	for	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	$	$	$	-	+	n:x	_	_	_	_	_	_	_	_	_	_	ARG2	_	ARG1	ARG1	_	_
+18	27	_generic_card_ne_	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	a	a	DT	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	share	share	NN	-	-	n_of:x	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	_	_
+21	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	or	or	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	$	$	$	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_or_c	_	_	_	ARG1
+24	212	_generic_card_ne_	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	million	million	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	times	_
+26	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+

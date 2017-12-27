@@ -1,0 +1,8 @@
+# ::id nw.wsj_0010.8 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Champagne and dessert followed .
+# ::alignments 0-1.1.1 1-1.1 2-1.1.2 3-1
+(f / follow-01~e.3 
+      :ARG1 (a / and~e.1 
+            :op1 (c / champagne~e.0) 
+            :op2 (d / dessert~e.2)))
+

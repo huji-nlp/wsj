@@ -1,0 +1,23 @@
+# ::id nw.wsj_0010.19 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok More than a few CEOs say the red - carpet treatment tempts them to return to a heartland city for future meetings .
+# ::alignments 0-1.1.2 1-1.1.2 3-1.1.2.1 4-1.1.1.1 4-1.1.1.1.1 4-1.1.1.1.1.r 4-1.1.1.1.2 4-1.1.1.1.2.r 5-1 7-1.2.2.1.1 9-1.2.2.1 10-1.2.2 11-1.2 14-1.2.3 15-1.2.3.2.r 17-1.2.3.2.1 18-1.2.3.2 19-1.2.3.3.r 20-1.2.3.3.1 21-1.2.3.3
+(s / say-01~e.5 
+      :ARG0 (p / person 
+            :ARG0-of (h2 / have-org-role-91 
+                  :ARG2 (o / officer~e.4 
+                        :mod~e.4 (e / executive~e.4) 
+                        :mod~e.4 (c / chief~e.4))) 
+            :quant (m / more-than~e.0,1 
+                  :op1 (f / few~e.3))) 
+      :ARG1 (t / tempt-01~e.11 
+            :ARG1 p 
+            :ARG2 (t2 / treat-01~e.10 
+                  :manner (c3 / carpet~e.9 
+                        :ARG1-of (r2 / red-02~e.7))) 
+            :ARG3 (r / return-01~e.14 
+                  :ARG1 p 
+                  :ARG4~e.15 (c2 / city~e.18 
+                        :location (h / heartland~e.17)) 
+                  :purpose~e.19 (m2 / meet-03~e.21 
+                        :time (f2 / future~e.20)))))
+

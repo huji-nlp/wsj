@@ -1,0 +1,18 @@
+# ::id nw.wsj_0009.3 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Previously , Mr. Vitulli , 43 years old , was general marketing manager of Chrysler Corp. 's Chrysler division .
+# ::alignments 0-1.3.3 2-1.2.1 3-1.2.2 5-1.4.1 6-1.4.2 7-1.4.r 10-1.3.2.3 11-1.3.2.2 12-1.3.2 12-1.3.2.1 12-1.3.2.1.r 14-1.3.1.2.1 14-1.3.1.3.2.1 15-1.3.1.3.2.2 16-1.3.1.3.r 17-1.3.1.2.1 18-1.3.1
+(p / person :wiki - 
+      :name (m / name :op1 "Mr."~e.2 :op2 "Vitulli"~e.3) 
+      :ARG0-of (h / have-org-role-91 
+            :ARG1 (d / division~e.18 :wiki "Chrysler" 
+                  :name (c3 / name :op1 "Chrysler"~e.14,17) 
+                  :part-of~e.16 (c / company :wiki "Chrysler" 
+                        :name (c2 / name :op1 "Chrysler"~e.14 :op2 "Corp."~e.15))) 
+            :ARG3 (m2 / manage-01~e.12 
+                  :ARG0~e.12 p~e.12 
+                  :ARG1 (m3 / market-01~e.11) 
+                  :mod (g / general~e.10)) 
+            :time (p3 / previous~e.0)) 
+      :age~e.7 (t / temporal-quantity :quant 43~e.5 
+            :unit (y / year~e.6)))
+

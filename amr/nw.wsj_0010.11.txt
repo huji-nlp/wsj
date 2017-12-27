@@ -1,0 +1,15 @@
+# ::id nw.wsj_0010.11 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok A buffet breakfast was held in the museum , where food and drinks are banned to everyday visitors .
+# ::alignments 1-1.1.1 2-1.1 4-1 5-1.2.r 7-1.2 9-1.2.1.r 10-1.2.1.1.1 11-1.2.1.1 12-1.2.1.1.2 14-1.2.1 15-1.2.1.2.r 16-1.2.1.2.2 17-1.2.1.2 17-1.2.1.2.1 17-1.2.1.2.1.r
+(h / hold-04~e.4 
+      :ARG1 (b / breakfast-01~e.2 
+            :mod (b2 / buffet~e.1)) 
+      :location~e.5 (m / museum~e.7 
+            :location-of~e.9 (b3 / ban-01~e.14 
+                  :ARG1 (a / and~e.11 
+                        :op1 (f / food~e.10) 
+                        :op2 (d / drink~e.12)) 
+                  :ARG2~e.15 (p / person~e.17 
+                        :ARG0-of~e.17 (v / visit-01~e.17) 
+                        :mod (e / everyday~e.16)))))
+

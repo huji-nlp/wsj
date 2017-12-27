@@ -1,0 +1,15 @@
+# ::id nw.wsj_0003.29 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok `` But you have to recognize that these events took place 35 years ago .
+# ::alignments 1-1 2-1.1.2.1 5-1.1.2 6-1.1.2.2.r 7-1.1.2.2.1 8-1.1.2.2 11-1.1.2.2.2.2.1 12-1.1.2.2.2.2.2 13-1.1.2.2.2 13-1.1.2.2.2.1 13-1.1.2.2.2.1.r
+(c / contrast-01~e.1 
+      :ARG2 (o / obligate-01 
+            :ARG1 y 
+            :ARG2 (r / recognize-02~e.5 
+                  :ARG0 (y / you~e.2) 
+                  :ARG1~e.6 (e / event~e.8 
+                        :mod (t / this~e.7) 
+                        :time (b / before~e.13 
+                              :op1~e.13 (n / now~e.13) 
+                              :quant (t2 / temporal-quantity :quant 35~e.11 
+                                    :unit (y2 / year~e.12)))))))
+

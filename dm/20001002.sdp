@@ -1,0 +1,15 @@
+#20001002
+1	Mr.	Mr.	NNP	-	+	n:x	_	_	_	_	_	_	_	_
+2	Vinken	_generic_proper_ne_	NNP	-	-	named:x-c	compound	ARG1	_	_	_	_	_	_
+3	is	is	VBZ	+	+	v_id:e-p-i	_	_	_	_	_	_	_	_
+4	chairman	chairman	NN	-	-	n_of:x	_	ARG2	ARG1	_	_	_	_	_
+5	of	of	IN	-	+	p:e-x-i	_	_	_	_	_	_	_	_
+6	Elsevier	_generic_proper_ne_	NNP	-	-	named:x-c	_	_	ARG2	compound	_	_	_	appos
+7	N.V.	N.V.	NNP	-	+	n:x	_	_	_	_	_	_	_	_
+8	,	_	,	-	-	_	_	_	_	_	_	_	_	_
+9	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_
+10	Dutch	Dutch	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_
+11	publishing	publish	NN	-	+	v:e-i-p	_	_	_	_	_	_	_	_
+12	group	group	NN	-	+	n_of:x	_	_	_	_	BV	ARG1	compound	_
+13	.	_	.	-	-	_	_	_	_	_	_	_	_	_
+

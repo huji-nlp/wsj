@@ -1,0 +1,34 @@
+# ::id nw.wsj_0003.26 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Workers dumped large burlap sacks of the imported material into a huge bin , poured in cotton and acetate fibers and mechanically mixed the dry fibers in a process used to make filters .
+# ::alignments 0-1.1.1 0-1.1.1.1 0-1.1.1.1.r 1-1.1 2-1.1.2.2.2 3-1.1.2.2.1 4-1.1.2.2 5-1.1.2.2.r 7-1.1.2.1 8-1.1.2 9-1.1.3.r 11-1.1.3.1 12-1.1.3 14-1.2 15-1.4.r 16-1.2.2.1.1 17-1.2.2 18-1.2.2.2.1 19-1.2.2.1 19-1.2.2.2 20-1 20-1.2.2 21-1.3.3 21-1.3.3.r 22-1.3 24-1.3.2.1 25-1.3.2 26-1.4.r 28-1.4 29-1.4.2 31-1.4.2 31-1.4.2.1 31-1.4.2.1.r 32-1.4.2.1.1 32-1.4.2.1.1.1 32-1.4.2.1.1.1.r
+(a / and~e.20 
+      :op1 (d / dump-01~e.1 
+            :ARG0 (p2 / person~e.0 
+                  :ARG0-of~e.0 (w / work-01~e.0)) 
+            :ARG1 (m2 / material~e.8 
+                  :ARG1-of (i / import-01~e.7) 
+                  :quant~e.5 (s / sack~e.4 
+                        :consist-of (b / burlap~e.3) 
+                        :mod (l / large~e.2))) 
+            :destination~e.9 (b2 / bin~e.12 
+                  :mod (h / huge~e.11))) 
+      :op2 (p / pour-01~e.14 
+            :ARG0 p2 
+            :ARG1 (a2 / and~e.17,20 
+                  :op1 (f / fiber~e.19 
+                        :mod (c / cotton~e.16)) 
+                  :op2 (f2 / fiber~e.19 
+                        :mod (a3 / acetate~e.18))) 
+            :ARG3 b2) 
+      :op3 (m / mix-01~e.22 
+            :ARG0 p2 
+            :ARG1 (f3 / fiber~e.25 
+                  :ARG1-of (d2 / dry-08~e.24)) 
+            :manner~e.21 (m3 / mechanical~e.21)) 
+      :prep-in~e.15,26 (p3 / process-02~e.28 
+            :ARG1 m4 
+            :ARG1-of (u / use-01~e.29,31 
+                  :ARG2~e.31 (m4 / make-01~e.31 
+                        :ARG1 (p4 / product~e.32 
+                              :ARG0-of~e.32 (f4 / filter-02~e.32))))))
+

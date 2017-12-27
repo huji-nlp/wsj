@@ -1,0 +1,10 @@
+# ::id nw.wsj_0003.25 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Areas of the factory were particularly dusty where the crocidolite was used .
+# ::alignments 0-1.1 1-1.1.1.r 3-1.1.1 4-1.1.r 5-1.2 6-1 7-1.1.2.r 9-1.1.2.1 11-1.1.2
+(d / dusty~e.6 
+      :domain~e.4 (a / area~e.0 
+            :poss~e.1 (f / factory~e.3) 
+            :location-of~e.7 (u / use-01~e.11 
+                  :ARG1 (c / crocidolite~e.9))) 
+      :mod (p / particular~e.5))
+

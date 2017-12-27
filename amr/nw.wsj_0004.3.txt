@@ -1,0 +1,18 @@
+# ::id nw.wsj_0004.3 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Compound yields assume reinvestment of dividends and that the current yield continues for a year .
+# ::alignments 0-1.1.1.1 1-1.1 1-1.1.1 1-1.1.1.r 1-1.2.1.1 1-1.2.1.1.1 1-1.2.1.1.1.r 2-1 3-1.2.1 6-1.2 7-1.2.r 9-1.2.2.1.1.1 10-1.2.2.1 10-1.2.2.1.1 10-1.2.2.1.1.r 11-1.2.2 12-1.2.2.2.r 13-1.2.2.2.1 14-1.2.2.2.2
+(a / assume-02~e.2 
+      :ARG0 (t2 / thing~e.1 
+            :ARG1-of~e.1 (y2 / yield-03~e.1 
+                  :mod (c / compound~e.0))) 
+      :ARG1~e.7 (a2 / and~e.6 
+            :op1 (r / reinvest-00~e.3 
+                  :ARG1 (t3 / thing~e.1 
+                        :ARG1-of~e.1 (y3 / yield-03~e.1))) 
+            :op2 (c2 / continue-01~e.11 
+                  :ARG1 (t4 / thing~e.10 
+                        :ARG1-of~e.10 (y4 / yield-03~e.10 
+                              :mod (c3 / current~e.9))) 
+                  :duration~e.12 (t5 / temporal-quantity :quant 1~e.13 
+                        :unit (y5 / year~e.14)))))
+

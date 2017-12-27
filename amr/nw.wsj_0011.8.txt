@@ -1,0 +1,10 @@
+# ::id nw.wsj_0011.8 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Imports were at $ 50.38 billion , up 19 % .
+# ::alignments 0-1.1 0-1.1.1 0-1.1.1.r 3-1.3.2 4-1.3.1 5-1.3.1 7-1 8-1.2.1 9-1.2
+(u / up-02~e.7 
+      :ARG1 (t / thing~e.0 
+            :ARG1-of~e.0 (i2 / import-01~e.0)) 
+      :ARG2 (p / percentage-entity~e.9 :value 19~e.8) 
+      :ARG4 (m / monetary-quantity :quant 50380000000~e.4,5 
+            :unit (d / dollar~e.3)))
+

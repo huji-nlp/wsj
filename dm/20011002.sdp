@@ -1,0 +1,34 @@
+#20011002
+1	Preliminary	preliminary	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	tallies	tally	NNS	-	-	n:x	ARG1	ARG1	_	_	ARG1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	by	by	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Trade	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	Industry	_generic_proper_ne_	NNP	-	-	named:x-c	_	_	_	_and_c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	Ministry	ministry	NNP	-	-	n:x	_	ARG2	BV	compound	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	showed	show	VBD	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	subord	_	_	_	_	_
+10	another	another	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	trade	trade	NN	-	+	n_of:x-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	deficit	deficit	NN	-	-	n_of:x-i	_	_	_	_	ARG2	BV	compound	ARG1	_	_	_	appos	_	_	_	_	_	_	_	_
+13	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	October	October	NNP	-	-	mofy:x-c	_	_	_	_	_	_	_	ARG2	_	_	_	_	_	_	_	_	_	_	_	_
+15	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	fifth	fifth	JJ	-	+	ord:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	monthly	monthly	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	setback	_generic_nn_	NN	-	+	n:x	_	_	_	_	_	_	_	_	BV	ARG1	ARG1	_	_	loc	_	_	_	_	_	_
+20	this	this	DT	-	+	q_dem:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	year	year	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	BV	_	_	_	_	_	_	_
+22	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	casting	cast	VBG	+	+	v:e-i-p-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	a	a	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	cloud	cloud	NN	-	-	n_of:x-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	BV	ARG1	_	_	_
+26	on	on	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG3	_	_	_	_	_
+27	South	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	Korea	Korea	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	compound	_	_
+29	’s	’s	VBZ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	export-oriented	orient	JJ	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	economy	economy	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	_	poss	ARG2
+32	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+

@@ -1,0 +1,25 @@
+#20003015
+1	The	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	total	total	NN	-	+	n_of:x-i	BV	_	_	_	_	_	_	_	_	ARG1	_	_	_
+3	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	18	_generic_card_ne_	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	deaths	death	NNS	-	-	n:x	_	ARG1	ARG1	ARG1	_	_	_	_	_	_	_	_	_
+6	from	from	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	malignant	malignant	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	mesothelioma	_generic_nn_	NN	-	+	n:x	_	_	_	ARG2	ARG1	_	_	_	_	_	_	_	_
+9	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	lung	lung	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	cancer	cancer	NN	-	+	n:x	_	_	_	_	_	conj	compound	_	_	_	_	_	_
+12	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	asbestosis	_generic_nn_	NN	-	-	n:x	_	_	_	_	_	_	_	_and_c	_	_	_	_	_
+14	was	was	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	far	far	RB	-	+	x:e-u	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	higher	higher	JJR	-	+	a:e-i	_	_	_	_	_	_	_	_	ARG1	_	_	_	ARG2
+17	than	than	IN	-	-	q:x-h-h	_	_	_	_	_	_	_	_	_	_	ARG1	_	_
+18	expected	expect	VBN	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	than	_	_	_
+19	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	researchers	researcher	NNS	-	-	n_of:x-i	_	_	_	_	_	_	_	_	_	_	_	BV	ARG1
+22	said	say	VBD	+	+	v_to:e-i-h-i	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+

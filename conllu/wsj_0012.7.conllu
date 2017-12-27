@@ -1,0 +1,13 @@
+# sent_id = wsj_0012.7
+1	U.S.	U.S.	PROPN	NNP	_	2	compound	_	_
+2	News	News	PROPN	NNP	_	3	nsubj	_	_
+3	has	have	VERB	VBZ	_	0	root	_	_
+4	yet	yet	ADV	RB	_	3	advmod	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	announce	announce	VERB	VB	_	3	xcomp	_	_
+7	its	its	PRON	PRP$	_	10	nmod:poss	_	_
+8	1990	1990	NUM	CD	_	10	nummod	_	_
+9	ad	ad	NOUN	NN	_	10	compound	_	_
+10	rates	rate	NOUN	NNS	_	6	dobj	_	_
+11	.	.	PUNCT	.	_	3	punct	_	_
+

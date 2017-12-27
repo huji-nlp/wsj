@@ -1,0 +1,29 @@
+# sent_id = wsj_0007.1
+1	McDermott	McDermott	PROPN	NNP	_	3	compound	_	_
+2	International	International	PROPN	NNP	_	3	compound	_	_
+3	Inc.	Inc.	PROPN	NNP	_	4	nsubj	_	_
+4	said	say	VERB	VBD	_	0	root	_	_
+5	its	its	PRON	PRP$	_	6	nmod:poss	_	_
+6	Babcock	Babcock	PROPN	NNP	_	10	nsubj	_	_
+7	&	&	CONJ	CC	_	6	cc	_	_
+8	Wilcox	Wilcox	PROPN	NNP	_	9	compound	_	_
+9	unit	unit	NOUN	NN	_	6	conj	_	_
+10	completed	complete	VERB	VBD	_	4	ccomp	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	sale	sale	NOUN	NN	_	10	dobj	_	_
+13	of	of	ADP	IN	_	17	case	_	_
+14	its	its	PRON	PRP$	_	17	nmod:poss	_	_
+15	Bailey	Bailey	PROPN	NNP	_	17	compound	_	_
+16	Controls	Controls	PROPN	NNP	_	17	compound	_	_
+17	Operations	Operations	PROPN	NNP	_	12	nmod	_	_
+18	to	to	ADP	TO	_	22	case	_	_
+19	Finmeccanica	Finmeccanica	PROPN	NNP	_	22	compound	_	_
+20	S.p	S.p	PROPN	NNP	_	22	compound	_	_
+21	.	.	PUNCT	.	_	22	punct	_	_
+22	A.	A.	PROPN	NNP	_	12	nmod	_	_
+23	for	for	ADP	IN	_	24	case	_	_
+24	$	$	SYM	$	_	12	nmod	_	_
+25	295	295	NUM	CD	_	26	compound	_	_
+26	million	million	NUM	CD	_	24	nummod	_	_
+27	.	.	PUNCT	.	_	4	punct	_	_
+

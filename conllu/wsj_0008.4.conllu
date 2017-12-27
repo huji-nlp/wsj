@@ -1,0 +1,18 @@
+# sent_id = wsj_0008.4
+1	Legislation	legislation	NOUN	NN	_	8	nsubjpass	_	_
+2	to	to	PART	TO	_	3	mark	_	_
+3	lift	lift	VERB	VB	_	1	acl	_	_
+4	the	the	DET	DT	_	6	det	_	_
+5	debt	debt	NOUN	NN	_	6	compound	_	_
+6	ceiling	ceiling	NOUN	NN	_	3	dobj	_	_
+7	is	be	AUX	VBZ	_	8	auxpass	_	_
+8	ensnarled	ensnarl	VERB	VBN	_	0	root	_	_
+9	in	in	ADP	IN	_	11	case	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	fight	fight	NOUN	NN	_	8	nmod	_	_
+12	over	over	SCONJ	IN	_	13	mark	_	_
+13	cutting	cut	VERB	VBG	_	11	acl	_	_
+14	capital-gains	capital-gains	ADJ	JJ	_	15	amod	_	_
+15	taxes	tax	NOUN	NNS	_	13	dobj	_	_
+16	.	.	PUNCT	.	_	8	punct	_	_
+

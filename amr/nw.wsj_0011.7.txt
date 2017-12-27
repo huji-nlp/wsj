@@ -1,0 +1,22 @@
+# ::id nw.wsj_0011.7 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok From January to October , the nation 's accumulated exports increased 4 % from the same period last year to $ 50.45 billion .
+# ::alignments 1-1.3.1.1.1 1-1.3.1.1.1.r 1-1.4.3.1.1 1-1.4.3.1.1.r 3-1.3.1.2.1 3-1.3.1.2.1.r 3-1.4.3.2.1 3-1.4.3.2.1.r 6-1.1.1.1 7-1.1.1.1.r 8-1.1.2 9-1.1 9-1.1.1 9-1.1.1.r 10-1 11-1.2.1 12-1.2 17-1.3.1.1.2.1 18-1.3.1.1.2 19-1.4.r 20-1.4.2 21-1.4.1 22-1.4.1
+(i / increase-01~e.10 
+      :ARG1 (t / thing~e.9 
+            :ARG1-of~e.9 (e / export-01~e.9 
+                  :ARG0~e.7 (n / nation~e.6)) 
+            :ARG1-of (a / accumulate-01~e.8)) 
+      :ARG2 (p / percentage-entity~e.12 :value 4~e.11) 
+      :ARG3 (m2 / monetary-quantity 
+            :time (d5 / date-interval 
+                  :op1 (d6 / date-entity :month~e.1 1~e.1 
+                        :mod (y / year~e.18 
+                              :mod (l / last~e.17))) 
+                  :op2 (d7 / date-entity :month~e.3 10~e.3 
+                        :mod y))) 
+      :ARG4~e.19 (m / monetary-quantity :quant 50450000000~e.21,22 
+            :unit (d / dollar~e.20) 
+            :time (d2 / date-interval 
+                  :op1 (d3 / date-entity :month~e.1 1~e.1) 
+                  :op2 (d4 / date-entity :month~e.3 10~e.3))))
+

@@ -1,0 +1,31 @@
+#20012002
+1	The	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	new	new	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	ad	ad	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	plan	plan	NN	-	-	n:x	BV	ARG1	compound	ARG1	_	_	_	_	_	ARG1	_	_	_	_	_	_	_
+5	from	from	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Newsweek	_generic_proper_ne_	NNP	-	-	named:x-c	_	_	_	ARG2	_	appos	_	_	_	_	_	_	_	_	_	_	_
+7	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	a	a	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	unit	unit	NN	-	+	n_of:x-i	_	_	_	_	BV	_	_	_	_	_	_	_	_	_	_	_	_
+10	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	Washington	Washington	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	Post	Post	NNP	-	+	named:x-c	_	_	_	_	_	_	_	compound	_	_	_	_	_	_	_	_	_
+14	Co.	co.	NNP	-	-	n:x	_	_	_	_	_	ARG1	BV	_	compound	_	_	_	_	_	_	_	_
+15	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	is	is	VBZ	+	+	v_id:e-p-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	second	second	JJ	-	+	ord:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	incentive	incentive	NN	-	+	n_to:x-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	plan	plan	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	ARG2	BV	ARG1	compound	_	ARG2	_	_
+21	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	magazine	magazine	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	BV	ARG1	_	_
+23	has	has	VBZ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	offered	offer	VBN	-	+	v:e-i-i-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG1	_
+25	advertisers	_generic_nns_	NNS	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG3	_	_
+26	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	three	three	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	years	year	NNS	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	ARG1
+29	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+

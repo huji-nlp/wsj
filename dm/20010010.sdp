@@ -1,0 +1,18 @@
+#20010010
+1	The	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_
+2	governor	governor	NN	-	-	n:x	BV	_	_	ARG1	_	_	_	_	_	_
+3	could	couldn’t	MD	-	+	neg:e-h	_	_	neg	_	_	_	_	_	_	_
+4	n’t	couldn’t	VB	-	+	neg:e-h	_	_	_	_	ARG1	_	_	_	_	_
+5	make	make	VB	-	+	v:e-i-p-u	_	ARG1	_	_	_	_	_	_	_	_
+6	it	it	PRP	-	-	pron:x	_	_	_	ARG2	_	_	_	_	_	_
+7	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_
+8	so	so	RB	+	+	x:e-h-h	_	_	_	_	_	_	_	_	_	_
+9	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_
+10	lieutenant	lieutenant	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_
+11	governor	governor	NN	-	-	n:x	_	_	_	_	_	BV	compound	ARG1	_	_
+12	welcomed	welcome	VBD	-	+	v:e-i-p	_	_	_	_	ARG2	_	_	_	_	_
+13	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_
+14	special	special	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_
+15	guests	guest	NNS	-	-	n_of:x-i	_	_	_	_	_	_	_	ARG2	BV	ARG1
+16	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_
+

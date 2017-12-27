@@ -1,0 +1,19 @@
+# ::id nw.wsj_0010.18 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Knowing a tasty -- and free -- meal when they eat one , the executives gave the chefs a standing ovation .
+# ::alignments 0-1.3 2-1.3.2.1 5-1.3.2.2 7-1.3.2 8-1.3.3.r 10-1.3.3 14-1.1.1.1 17-1.2 19-1.4 20-1
+(o / ovation-01~e.20 
+      :ARG0 (p / person 
+            :ARG0-of (h / have-org-role-91 
+                  :ARG2 (e / executive~e.14))) 
+      :ARG1 (c / chef~e.17) 
+      :ARG2 (k / know-04~e.0 
+            :ARG0 p 
+            :ARG1 (m / meal~e.7 
+                  :mod (t / tasty~e.2) 
+                  :ARG1-of (f / free-03~e.5)) 
+            :time~e.8 (e2 / eat-01~e.10 
+                  :ARG0 p 
+                  :ARG1 m)) 
+      :manner (s / stand-01~e.19 
+            :ARG1 p))
+

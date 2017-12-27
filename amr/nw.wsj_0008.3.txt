@@ -1,0 +1,17 @@
+# ::id nw.wsj_0008.3 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok The government 's borrowing authority dropped at midnight Tuesday to $ 2.80 trillion from $ 2.87 trillion .
+# ::alignments 1-1.1.1.2.1 1-1.1.1.2.1.1 1-1.1.1.2.1.1.r 2-1.1.1.2.1.r 3-1.1.1 4-1.1.1.2 5-1 10-1.2.2 10-1.3.2 11-1.3.1 12-1.3.1 14-1.2.2 14-1.3.2 15-1.2.1 16-1.2.1
+(d4 / drop-01~e.5 
+      :ARG1 (t / thing 
+            :ARG1-of (b / borrow-01~e.3 
+                  :ARG0 g 
+                  :ARG1-of (a / authorize-01~e.4 
+                        :ARG2~e.2 (g / government-organization~e.1 
+                              :ARG0-of~e.1 (g2 / govern-01~e.1))))) 
+      :ARG3 (m2 / monetary-quantity :quant 2870000000000~e.15,16 
+            :unit (d3 / dollar~e.10,14)) 
+      :ARG4 (m / monetary-quantity :quant 2800000000000~e.11,12 
+            :unit (d2 / dollar~e.10,14)) 
+      :time (d / date-entity :time "0:00" 
+            :weekday (w / wednesday)))
+

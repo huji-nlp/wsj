@@ -1,0 +1,23 @@
+# sent_id = wsj_0004.12
+1	Typically	typically	ADV	RB	_	5	advmod	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	money-fund	money-fund	NOUN	NN	_	4	compound	_	_
+4	yields	yield	NOUN	NNS	_	5	nsubj	_	_
+5	beat	beat	VERB	VBP	_	0	root	_	_
+6	comparable	comparable	ADJ	JJ	_	8	amod	_	_
+7	short-term	short-term	ADJ	JJ	_	8	amod	_	_
+8	investments	investment	NOUN	NNS	_	5	dobj	_	_
+9	because	because	SCONJ	IN	_	13	mark	_	_
+10	portfolio	portfolio	NOUN	NN	_	11	compound	_	_
+11	managers	manager	NOUN	NNS	_	13	nsubj	_	_
+12	can	can	AUX	MD	_	13	aux	_	_
+13	vary	vary	VERB	VB	_	5	advcl	_	_
+14	maturities	maturity	NOUN	NNS	_	13	dobj	_	_
+15	and	and	CONJ	CC	_	13	cc	_	_
+16	go	go	VERB	VB	_	13	conj	_	_
+17	after	after	ADP	IN	_	20	case	_	_
+18	the	the	DET	DT	_	20	det	_	_
+19	highest	highest	ADJ	JJS	_	20	amod	_	_
+20	rates	rate	NOUN	NNS	_	16	nmod	_	_
+21	.	.	PUNCT	.	_	5	punct	_	_
+

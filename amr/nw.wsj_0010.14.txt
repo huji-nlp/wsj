@@ -1,0 +1,19 @@
+# ::id nw.wsj_0010.14 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok No dummies , the drivers pointed out they still had space on their machines for another sponsor 's name or two .
+# ::alignments 0-1.1.2.1 0-1.1.2.1.r 1-1.1.2 4-1.1 4-1.1.1 4-1.1.1.r 5-1 6-1 7-1.2.1 8-1.2.3 9-1.2 10-1.2.2 11-1.2.2.1.r 12-1.2.2.1.1 12-1.2.2.1.1.r 13-1.2.2.1 14-1.2.2.2.r 15-1.2.2.2.2.2 16-1.2.2.2.2 16-1.2.2.2.2.1 16-1.2.2.2.2.1.r 17-1.2.2.2.2.r 18-1.2.2.2 19-1.2.2.2.1 20-1.2.2.2.1.2
+(p / point-out-02~e.5,6 
+      :ARG0 (p2 / person~e.4 
+            :ARG0-of~e.4 (d / drive-01~e.4) 
+            :mod (d2 / dummy~e.1 :polarity~e.0 -~e.0)) 
+      :ARG1 (h / have-03~e.9 
+            :ARG0 p2~e.7 
+            :ARG1 (s / space~e.10 
+                  :location~e.11 (m / machine~e.13 
+                        :poss~e.12 p2~e.12) 
+                  :prep-for~e.14 (n / name~e.18 
+                        :quant (o / or~e.19 :op1 1 :op1 2~e.20) 
+                        :poss~e.17 (c / company~e.16 
+                              :ARG0-of~e.16 (s4 / sponsor-01~e.16) 
+                              :mod (a / another~e.15)))) 
+            :mod (s3 / still~e.8)))
+

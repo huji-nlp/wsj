@@ -1,0 +1,13 @@
+# ::id nw.wsj_0005.3 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok W.R. Grace holds three of Grace Energy 's seven board seats .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1 3-1.2.1 5-1.2.2.1.3.2.1 6-1.2.2.1.3.2.2 7-1.2.2.1.3.r 8-1.2.2.1.1 9-1.2.2.1.2 10-1.2 10-1.2.2.1
+(h / hold-01~e.2 
+      :ARG0 (c / company :wiki "W._R._Grace_and_Company" 
+            :name (w / name :op1 "W.R."~e.0 :op2 "Grace"~e.1)) 
+      :ARG1 (s3 / seat~e.10 :quant 3~e.3 
+            :ARG1-of (i / include-91 
+                  :ARG2 (s4 / seat~e.10 :quant 7~e.8 
+                        :mod (b / board~e.9) 
+                        :poss~e.7 (c2 / company :wiki - 
+                              :name (g / name :op1 "Grace"~e.5 :op2 "Energy"~e.6))))))
+

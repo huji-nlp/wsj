@@ -1,0 +1,16 @@
+# ::id nw.wsj_0008.4 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok Legislation to lift the debt ceiling is ensnarled in the fight over cutting capital - gains taxes .
+# ::alignments 0-1.1 2-1.1.1 4-1.1.1.1.1 5-1.1.1.1 7-1 8-1.2.r 10-1.2 11-1.2.1.r 12-1.2.1 13-1.2.1.1.1.1.1.1 15-1.2.1.1.1.1 15-1.2.1.1.1.1.1 15-1.2.1.1.1.1.1.r 16-1.2.1.1 16-1.2.1.1.1 16-1.2.1.1.1.r
+(e / ensnarl-01~e.7 
+      :ARG1 (l / legislate-01~e.0 
+            :ARG1 (l2 / lift-01~e.2 
+                  :ARG1 (c / ceiling~e.5 
+                        :mod (d / debt~e.4)))) 
+      :ARG2~e.8 (f / fight-01~e.10 
+            :ARG2~e.11 (c2 / cut-02~e.12 
+                  :ARG1 (t2 / thing~e.16 
+                        :ARG1-of~e.16 (t / tax-01~e.16 
+                              :ARG3 (t3 / thing~e.15 
+                                    :ARG1-of~e.15 (g3 / gain-02~e.15 
+                                          :mod (c5 / capital~e.13))))))))
+

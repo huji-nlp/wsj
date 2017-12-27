@@ -1,0 +1,34 @@
+# ::id nw.wsj_0003.20 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok The U.S. is one of the few industrialized nations that does n't have a higher standard of regulation for the smooth , needle - like fibers such as crocidolite that are classified as amphobiles , according to Brooke T. Mossman , a professor of pathlogy at the University of Vermont College of Medicine .
+# ::alignments 1-1.2.1.2.1 6-1.2.2.2.2 7-1.2.2.2.1.1 8-1.2.2 8-1.2.2.2.1 11-1.2.2.1.1 11-1.2.2.1.1.r 12-1.2.2.1 14-1.2.2.1.2.1 14-1.2.2.1.2.1.1 14-1.2.2.1.2.1.1.r 15-1.2.2.1.2 16-1.2.2.1.2.2.r 17-1.2.2.1.2.2 18-1.2.2.1.2.2.1.r 20-1.2.2.1.2.2.1.1 22-1.2.2.1.2.2.1.2.1 24-1.2.2.1.2.2.1.2 25-1.2.2.1.2.2.1 26-1.2.2.1.2.2.1.4.r 27-1.2.2.1.2.2.1.4.r 28-1.2.2.1.2.2.1.4 31-1.2.2.1.2.2.1.3 32-1.2.2.1.2.2.1.3.1.r 33-1.2.2.1.2.2.1.3.1 35-1 36-1 37-1.1.2.1 38-1.1.2.2 39-1.1.2.3 42-1.1.3.2 43-1.1.3.2.1.r 44-1.1.3.2.1 45-1.1.3 47-1.1.3.1.2.2.1 48-1.1.3.1.2.2.2 49-1.1.3.1.2.2.3 50-1.1.3.1 51-1.1.3.1.1.r 52-1.1.3.1.1
+(s / say-01~e.35,36 
+      :ARG0 (p2 / person :wiki - 
+            :name (b / name :op1 "Brooke"~e.37 :op2 "T."~e.38 :op3 "Mossman"~e.39) 
+            :ARG0-of (h3 / have-org-role-91~e.45 
+                  :ARG1 (c2 / college~e.50 
+                        :mod~e.51 (m / medicine~e.52) 
+                        :part-of (u2 / university :wiki "University_of_Vermont" 
+                              :name (u3 / name :op1 "University"~e.47 :op2 "of"~e.48 :op3 "Vermont"~e.49))) 
+                  :ARG2 (p3 / professor~e.42 
+                        :topic~e.43 (p / pathology~e.44)))) 
+      :ARG1 (i2 / include-91 
+            :ARG1 (c / country :wiki "United_States" 
+                  :name (u / name :op1 "U.S."~e.1)) 
+            :ARG2 (n / nation~e.8 
+                  :ARG0-of (h / have-03~e.12 :polarity~e.11 -~e.11 
+                        :ARG1 (s2 / standard~e.15 
+                              :ARG1-of (h2 / high-02~e.14 
+                                    :degree~e.14 (m2 / more~e.14)) 
+                              :prep-with-of~e.16 (r / regulate-01~e.17 
+                                    :ARG1~e.18 (f2 / fiber~e.25 
+                                          :ARG1-of (s3 / smooth-06~e.20) 
+                                          :ARG2-of (r2 / resemble-01~e.24 
+                                                :ARG1 (n2 / needle~e.22)) 
+                                          :ARG1-of (c4 / classify-01~e.31 
+                                                :ARG2~e.32 (a / amphobile~e.33)) 
+                                          :example~e.26,27 (c3 / crocidolite~e.28))))) 
+                  :ARG1-of (i3 / include-91 
+                        :ARG2 (n3 / nation~e.8 
+                              :ARG1-of (i / industrialize-01~e.7)) 
+                        :ARG3 (f / few~e.6)))))
+

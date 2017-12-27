@@ -1,0 +1,18 @@
+# sent_id = wsj_0003.6
+1	We	we	PRON	PRP	_	3	nsubj	_	_
+2	're	be	AUX	VBP	_	3	aux	_	_
+3	talking	talk	VERB	VBG	_	0	root	_	_
+4	about	about	ADP	IN	_	5	case	_	_
+5	years	year	NOUN	NNS	_	3	advcl	_	_
+6	ago	ago	ADP	IN	_	5	case	_	_
+7	before	before	SCONJ	IN	_	9	mark	_	_
+8	anyone	anyone	PRON	NN	_	9	nsubj	_	_
+9	heard	hear	VERB	VBD	_	5	advcl	_	_
+10	of	of	SCONJ	IN	_	12	mark	_	_
+11	asbestos	asbestos	NOUN	NN	_	12	nsubj	_	_
+12	having	have	VERB	VBG	_	9	advcl	_	_
+13	any	any	DET	DT	_	15	det	_	_
+14	questionable	questionable	ADJ	JJ	_	15	amod	_	_
+15	properties	property	NOUN	NNS	_	12	dobj	_	_
+16	.	.	PUNCT	.	_	3	punct	_	_
+

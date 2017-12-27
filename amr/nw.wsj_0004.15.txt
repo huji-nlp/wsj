@@ -1,0 +1,21 @@
+# ::id nw.wsj_0004.15 ::amr-annotator ISI-AMR-01 ::preferred
+# ::tok It invests heavily in dollar - denominated securities overseas and is currently waiving management fees , which boosts its yield .
+# ::alignments 0-1.1.1 1-1.1 2-1.1.3 2-1.1.3.r 3-1.1.2.r 4-1.1.2.1.1 6-1.1.2.1 7-1.1.2 8-1.1.2.2 9-1 11-1.2.4 12-1.2 13-1.2.2.1 14-1.2.2 17-1.2.3 18-1.2.3.1.1.1 18-1.2.3.1.1.1.r 19-1.2.3.1 19-1.2.3.1.1 19-1.2.3.1.1.r
+(a / and~e.9 
+      :op1 (i / invest-01~e.1 
+            :ARG0 (i3 / it~e.0) 
+            :ARG2~e.3 (s / security~e.7 
+                  :ARG1-of (d / denominate-01~e.6 
+                        :ARG2 (d2 / dollar~e.4)) 
+                  :location (o / overseas~e.8)) 
+            :manner~e.2 (h / heavy~e.2)) 
+      :op2 (w / waive-01~e.12 
+            :ARG0 i3 
+            :ARG1 (f / fee~e.14 
+                  :mod (m / manage-01~e.13)) 
+            :ARG0-of (b2 / boost-01~e.17 
+                  :ARG1 (t / thing~e.19 
+                        :ARG1-of~e.19 (y / yield-03~e.19 
+                              :ARG0~e.18 i3~e.18))) 
+            :time (c / current~e.11)))
+
