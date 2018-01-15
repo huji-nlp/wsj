@@ -1,15 +1,15 @@
 # ::id nw.wsj_0007.2 ::amr-annotator ISI-AMR-01 ::preferred
-# ::tok Finmeccanica is an Italian state - owned holding company with interests in the mechanical engineering industry .
-# ::alignments 0-1.2.1 3-1.5.2.1 4-1.3.1 6-1.3 7-1.6 8-1 9-1.4.r 10-1.4 11-1.4.1.r 13-1.4.1.1.1 14-1.4.1.1 15-1.4.1
-(c3 / company~e.8 :wiki "Finmeccanica" 
+# ::tok Finmeccanica is an Italian state-owned holding company with interests in the mechanical engineering industry .
+# ::alignments 0-1.2.1 3-1.5.2.1 4-1.3.1 4-1.3 5-1.6 6-1 7-1.4.r 8-1.4 9-1.4.1.r 11-1.4.1.1.1 12-1.4.1.1 13-1.4.1
+(c3 / company~e.6 :wiki "Finmeccanica" 
       :name (n2 / name :op1 "Finmeccanica"~e.0) 
-      :ARG1-of (o / own-01~e.6 
+      :ARG1-of (o / own-01~e.4 
             :ARG0 (s2 / state~e.4)) 
-      :prep-with~e.9 (i2 / interest~e.10 
-            :prep-in~e.11 (i3 / industry~e.15 
-                  :mod (e / engineering~e.14 
-                        :mod (m / mechanics~e.13)))) 
+      :prep-with~e.7 (i2 / interest~e.8 
+            :prep-in~e.9 (i3 / industry~e.13 
+                  :mod (e / engineering~e.12 
+                        :mod (m / mechanics~e.11)))) 
       :mod (c / country :wiki "Italy" 
             :name (i / name :op1 "Italy"~e.3)) 
-      :mod (h / holding~e.7))
+      :mod (h / holding~e.5))
 

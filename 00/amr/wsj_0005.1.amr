@@ -1,7 +1,7 @@
 # ::id nw.wsj_0005.1 ::amr-annotator ISI-AMR-01 ::preferred
-# ::tok J.P. Bolduc , vice chairman of W.R. Grace & Co. , which holds a 83.4 % interest in this energy - services company , was elected a director .
-# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.3.2.1 4-1.1.3.2 5-1.1.3 6-1.1.3.1.2.1 7-1.1.3.1.2.2 8-1.1.3.1.2.3 9-1.1.3.1.2.4 12-1.1.3.1 12-1.1.3.1.3 12-1.1.3.1.3.r 14-1.1.3.1.3.1.1.1 15-1.1.3.1.3.1.1 16-1.1.3.1.3.1 17-1.1.3.1.3.1.2.r 18-1.1.3.1.3.1.2.1 19-1.1.3.1.3.1.2.2.1 21-1.1.3.1.3.1.2.2 22-1.1.3.1.3.1.2 25-1 27-1.2
-(e / elect-01~e.25 
+# ::tok J.P. Bolduc , vice chairman of W.R. Grace & Co. , which holds a 83.4 % interest in this energy-services company , was elected a director .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.3.2.1 4-1.1.3.2 5-1.1.3 6-1.1.3.1.2.1 7-1.1.3.1.2.2 8-1.1.3.1.2.3 9-1.1.3.1.2.4 12-1.1.3.1 12-1.1.3.1.3 12-1.1.3.1.3.r 14-1.1.3.1.3.1.1.1 15-1.1.3.1.3.1.1 16-1.1.3.1.3.1 17-1.1.3.1.3.1.2.r 18-1.1.3.1.3.1.2.1 19-1.1.3.1.3.1.2.2.1 19-1.1.3.1.3.1.2.2 20-1.1.3.1.3.1.2 23-1 25-1.2
+(e / elect-01~e.23 
       :ARG1 (p / person :wiki - 
             :name (j / name :op1 "J.P."~e.0 :op2 "Bolduc"~e.1) 
             :ARG0-of (h2 / have-org-role-91~e.5 
@@ -10,13 +10,13 @@
                         :ARG0-of~e.12 (h / hold-01~e.12 
                               :ARG1 (i / interest~e.16 
                                     :quant (p2 / percentage-entity~e.15 :value 83.4~e.14) 
-                                    :prep-in~e.17 (c3 / company~e.22 
+                                    :prep-in~e.17 (c3 / company~e.20 
                                           :mod (t / this~e.18) 
-                                          :mod (s / service~e.21 
+                                          :mod (s / service~e.19 
                                                 :mod (e3 / energy~e.19)))))) 
                   :ARG2 (c2 / chairman~e.4 
                         :mod (v / vice~e.3)))) 
-      :ARG2 (d / director~e.27 
+      :ARG2 (d / director~e.25 
             :ARG2-of (h3 / have-org-role-91 
                   :ARG0 p)))
 

@@ -1,13 +1,13 @@
 # ::id nw.wsj_0003.11 ::amr-annotator ISI-AMR-01 ::preferred
-# ::tok The Lorillard spokeswoman said asbestos was used in `` very modest amounts '' in making paper for the filters in the early 1950 s and replaced with a different type of filter in 1956 .
-# ::alignments 1-1.1.1.1.2.1 2-1.1.1.2 3-1 4-1.2.1.1 6-1.2.1 9-1.2.1.1.1.1.1 10-1.2.1.1.1.1 11-1.2.1.1.1 14-1.2.1 14-1.2.1.2 14-1.2.1.2.r 15-1.2.1.2.1 16-1.2.1.2.3.r 18-1.2.1.2.3 18-1.2.1.2.3.1 18-1.2.1.2.3.1.r 19-1.2.1.2.2.r 21-1.2.1.2.2 22-1.2.1.2.2.1.1 23-1.2.1.2.2.1.1.r 24-1.2 25-1.2.2 26-1.2.2.2.r 28-1.2.2.2.1.1.1 29-1.2.2.2.1.1 30-1.2.2.2.1.1.r 31-1.2.2.2 31-1.2.2.2.1 31-1.2.2.2.1.r 32-1.2.2.3.r 33-1.2.2.3.1
+# ::tok The Lorillard spokeswoman said asbestos was used in `` very modest amounts '' in making paper for the filters in the early 1950s and replaced with a different type of filter in 1956 .
+# ::alignments 1-1.1.1.1.2.1 2-1.1.1.2 3-1 4-1.2.1.1 6-1.2.1 9-1.2.1.1.1.1.1 10-1.2.1.1.1.1 11-1.2.1.1.1 14-1.2.1 14-1.2.1.2 14-1.2.1.2.r 15-1.2.1.2.1 16-1.2.1.2.3.r 18-1.2.1.2.3 18-1.2.1.2.3.1 18-1.2.1.2.3.1.r 19-1.2.1.2.2.r 21-1.2.1.2.2 22-1.2.1.2.2.1.1 22-1.2.1.2.2.1.1.r 23-1.2 24-1.2.2 25-1.2.2.2.r 27-1.2.2.2.1.1.1 28-1.2.2.2.1.1 29-1.2.2.2.1.1.r 30-1.2.2.2 30-1.2.2.2.1 30-1.2.2.2.1.r 31-1.2.2.3.r 32-1.2.2.3.1
 (s / say-01~e.3 
       :ARG0 (p4 / person 
             :ARG0-of (h / have-org-role-91 
                   :ARG1 (c / company :wiki "Lorillard_Tobacco_Company" 
                         :name (l / name :op1 "Lorillard"~e.1)) 
                   :ARG2 (s2 / spokeswoman~e.2))) 
-      :ARG1 (a3 / and~e.24 
+      :ARG1 (a3 / and~e.23 
             :op1 (u / use-01~e.6,14 
                   :ARG1 (a / asbestos~e.4 
                         :quant (a2 / amount~e.11 
@@ -16,14 +16,14 @@
                   :ARG2~e.14 (m2 / make-01~e.14 
                         :ARG1 (p / paper~e.15) 
                         :time~e.19 (e2 / early~e.21 
-                              :op1 (d3 / date-entity :decade~e.23 1950~e.22)) 
+                              :op1 (d3 / date-entity :decade~e.22 1950~e.22)) 
                         :purpose~e.16 (p2 / product~e.18 
                               :ARG0-of~e.18 (f / filter-02~e.18)))) 
-            :op2 (r / replace-01~e.25 
+            :op2 (r / replace-01~e.24 
                   :ARG1 a 
-                  :ARG2~e.26 (p3 / product~e.31 
-                        :ARG0-of~e.31 (f2 / filter-02~e.31 
-                              :mod~e.30 (t / type~e.29 
-                                    :ARG1-of (d2 / differ-02~e.28)))) 
-                  :time~e.32 (d / date-entity :year 1956~e.33))))
+                  :ARG2~e.25 (p3 / product~e.30 
+                        :ARG0-of~e.30 (f2 / filter-02~e.30 
+                              :mod~e.29 (t / type~e.28 
+                                    :ARG1-of (d2 / differ-02~e.27)))) 
+                  :time~e.31 (d / date-entity :year 1956~e.32))))
 

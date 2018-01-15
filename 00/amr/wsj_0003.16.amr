@@ -1,17 +1,17 @@
 # ::id nw.wsj_0003.16 ::amr-annotator ISI-AMR-01 ::preferred
-# ::tok `` The morbidity rate is a striking finding among those of us who study asbestos - related diseases , '' said Dr. Talcott .
-# ::alignments 2-1.2.1 3-1.2 6-1.2.3 7-1.2.2 8-1.2.3.1.2 9-1.2.3.1.3 11-1.2.3.1.2.1 13-1.2.3.1.1 14-1.2.3.1.1.1.1.1 16-1.2.3.1.1.1.1 17-1.2.3.1.1.1 20-1 21-1.1 22-1.1.2.1
-(s / say-01~e.20 
-      :ARG0 (d2 / doctor~e.21 :wiki - 
-            :name (t / name :op1 "Talcott"~e.22)) 
+# ::tok `` The morbidity rate is a striking finding among those of us who study asbestos-related diseases , '' said Dr. Talcott .
+# ::alignments 2-1.2.1 3-1.2 6-1.2.3 7-1.2.2 8-1.2.3.1.2 9-1.2.3.1.3 11-1.2.3.1.2.1 13-1.2.3.1.1 14-1.2.3.1.1.1.1.1 14-1.2.3.1.1.1.1 15-1.2.3.1.1.1 18-1 19-1.1 20-1.1.2.1
+(s / say-01~e.18 
+      :ARG0 (d2 / doctor~e.19 :wiki - 
+            :name (t / name :op1 "Talcott"~e.20)) 
       :ARG1 (r2 / rate~e.3 
             :mod (d3 / die-01~e.2) 
             :ARG1-of (f / find-01~e.7) 
             :ARG1-of (s4 / strike-04~e.6 
                   :ARG3 (p2 / person 
                         :ARG0-of (s3 / study-01~e.13 
-                              :ARG1 (d / disease~e.17 
-                                    :ARG1-of (r / relate-01~e.16 
+                              :ARG1 (d / disease~e.15 
+                                    :ARG1-of (r / relate-01~e.14 
                                           :ARG2 (a / asbestos~e.14)))) 
                         :ARG1-of (i / include-91~e.8 
                               :ARG2 (w / we~e.11)) 
