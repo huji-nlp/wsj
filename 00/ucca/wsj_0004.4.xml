@@ -18,7 +18,7 @@
       <attributes paragraph="1" paragraph_position="5" text="funds" />
     </node>
     <node ID="0.6" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="6" text="\'" />
+      <attributes paragraph="1" paragraph_position="6" text="'" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="investments" />
@@ -75,7 +75,7 @@
       <attributes paragraph="1" paragraph_position="24" text="Donoghue" />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="\'s" />
+      <attributes paragraph="1" paragraph_position="25" text="'s" />
     </node>
     <node ID="0.26" type="Punctuation">
       <attributes paragraph="1" paragraph_position="26" text="." />
