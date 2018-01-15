@@ -1,0 +1,20 @@
+1	It	it	PRON	PRP	_	2	nsubj	11:nsubj|2:nsubj	_
+2	invests	invest	VERB	VBZ	_	0	root	0:root	_
+3	heavily	heavily	ADV	RB	_	2	advmod	2:advmod	_
+4	in	in	ADP	IN	_	6	case	6:case	_
+5	dollar-denominated	dollar-denominated	ADJ	JJ	_	6	amod	6:amod	_
+6	securities	security	NOUN	NNS	_	2	nmod:in	2:nmod:in	_
+7	overseas	overseas	ADV	RB	_	2	advmod	2:advmod	_
+8	and	and	CONJ	CC	_	2	cc	2:cc	_
+9	is	be	AUX	VBZ	_	11	aux	11:aux	_
+10	currently	currently	ADV	RB	_	11	advmod	11:advmod	_
+11	waiving	waive	VERB	VBG	_	2	conj:and	2:conj:and	_
+12	management	management	NOUN	NN	_	13	compound	13:compound	_
+13	fees	fee	NOUN	NNS	_	11	dobj	11:dobj	_
+14	,	,	PUNCT	,	_	11	punct	11:punct	_
+15	which	which	PRON	WDT	_	16	nsubj	16:nsubj	_
+16	boosts	boost	VERB	VBZ	_	11	ccomp	11:ccomp	_
+17	its	its	PRON	PRP$	_	18	nmod:poss	18:nmod:poss	_
+18	yield	yield	NOUN	NN	_	16	dobj	16:dobj	_
+19	.	.	PUNCT	.	_	2	punct	2:punct	_
+

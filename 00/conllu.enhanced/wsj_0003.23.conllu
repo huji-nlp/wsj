@@ -1,0 +1,15 @@
+1	By	by	ADP	IN	_	2	case	_	_
+2	1997	1997	NUM	CD	_	13	nmod:agent	_	_
+3	,	,	PUNCT	,	_	13	punct	_	_
+4	almost	almost	ADV	RB	_	5	advmod	_	_
+5	all	all	DET	DT	_	7	amod	_	_
+6	remaining	remain	VERB	VBG	_	7	amod	_	_
+7	uses	use	NOUN	NNS	_	13	nsubjpass	_	_
+8	of	of	ADP	IN	_	10	case	_	_
+9	cancer-causing	cancer-causing	ADJ	JJ	_	10	amod	_	_
+10	asbestos	asbestos	NOUN	NN	_	7	nmod:of	_	_
+11	will	will	AUX	MD	_	13	aux	_	_
+12	be	be	AUX	VB	_	13	auxpass	_	_
+13	outlawed	outlaw	VERB	VBN	_	0	root	_	_
+14	.	.	PUNCT	.	_	13	punct	_	_
+

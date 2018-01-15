@@ -1,0 +1,27 @@
+1	South	South	PROPN	NNP	_	5	nmod:poss	5:nmod:poss	_
+2	Korea	Korea	PROPN	NNP	_	1	name	1:name	_
+3	's	's	PART	POS	_	1	case	1:case	_
+4	economic	economic	ADJ	JJ	_	5	amod	5:amod	_
+5	boom	boom	NOUN	NN	_	12	nsubj	12:nsubj|8:nsubj	_
+6	,	,	PUNCT	,	_	5	punct	5:punct	_
+7	which	which	PRON	WDT	_	5	ref	5:ref	_
+8	began	begin	VERB	VBD	_	5	acl:relcl	5:acl:relcl	_
+9	in	in	ADP	IN	_	10	case	10:case	_
+10	1986	1986	NUM	CD	_	8	nmod:in	8:nmod:in	_
+11	,	,	PUNCT	,	_	5	punct	5:punct	_
+12	stopped	stop	VERB	VBD	_	0	root	0:root	_
+13	this	this	DET	DT	_	14	det	14:det	_
+14	year	year	NOUN	NN	_	12	nmod:tmod	12:nmod:tmod	_
+15	because	because	ADP	IN	_	19	case	19:case	_
+16	of	of	ADP	IN	_	15	mwe	15:mwe	_
+17	prolonged	prolong	VERB	VBN	_	19	amod	19:amod	_
+18	labor	labor	NOUN	NN	_	19	compound	19:compound	_
+19	disputes	dispute	NOUN	NNS	_	12	nmod:because_of	12:nmod:because_of	_
+20	,	,	PUNCT	,	_	19	punct	19:punct	_
+21	trade	trade	NOUN	NN	_	22	compound	22:compound	_
+22	conflicts	conflict	NOUN	NNS	_	19	conj:and	12:nmod:because_of|19:conj:and	_
+23	and	and	CONJ	CC	_	19	cc	19:cc	_
+24	sluggish	sluggish	ADJ	JJ	_	25	amod	25:amod	_
+25	exports	export	NOUN	NNS	_	19	conj:and	12:nmod:because_of|19:conj:and	_
+26	.	.	PUNCT	.	_	12	punct	12:punct	_
+

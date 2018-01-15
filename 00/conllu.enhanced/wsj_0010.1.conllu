@@ -1,0 +1,33 @@
+# doc_id = wsj_0010
+1	When	when	ADV	WRB	_	4	advmod	_	_
+2	it	it	PRON	PRP	_	4	nsubj	_	_
+3	's	be	VERB	VBZ	_	4	cop	_	_
+4	time	time	NOUN	NN	_	16	advcl	_	_
+5	for	for	ADP	IN	_	8	case	_	_
+6	their	they	PRON	PRP$	_	8	nmod:poss	_	_
+7	biannual	biannual	ADJ	JJ	_	8	amod	_	_
+8	powwow	powwow	NOUN	NN	_	4	nmod:for	_	_
+9	,	,	PUNCT	,	_	16	punct	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	nation	nation	NOUN	NN	_	14	nmod:poss	_	_
+12	's	's	PART	POS	_	11	case	_	_
+13	manufacturing	manufacture	VERB	VBG	_	14	amod	_	_
+14	titans	titan	NOUN	NNS	_	16	nsubj	_	_
+15	typically	typically	ADV	RB	_	16	advmod	_	_
+16	jet	jet	VERB	VBP	_	0	root	_	_
+17	off	off	ADP	RP	_	16	compound:prt	_	_
+18	to	to	ADP	TO	_	21	case	_	_
+19	the	the	DET	DT	_	21	det	_	_
+20	sunny	sunny	ADJ	JJ	_	21	amod	_	_
+21	confines	confines	NOUN	NNS	_	16	nmod:to	_	_
+22	of	of	ADP	IN	_	24	case	_	_
+23	resort	resort	NOUN	NN	_	24	compound	_	_
+24	towns	town	NOUN	NNS	_	21	nmod:of	_	_
+25	like	like	ADP	IN	_	26	case	_	_
+26	Boca	Boca	PROPN	NNP	_	24	nmod:like	_	_
+27	Raton	Raton	PROPN	NNP	_	26	name	_	_
+28	and	and	CONJ	CC	_	26	cc	_	_
+29	Hot	Hot	PROPN	NNP	_	26	conj:and	_	_
+30	Springs	Springs	PROPN	NNP	_	29	name	_	_
+31	.	.	PUNCT	.	_	16	punct	_	_
+

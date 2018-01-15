@@ -1,0 +1,13 @@
+1	The	the	DET	DT	_	4	det	_	_
+2	top	top	ADJ	JJ	_	4	amod	_	_
+3	money	money	NOUN	NN	_	4	compound	_	_
+4	funds	fund	NOUN	NNS	_	7	nsubj	_	_
+5	are	be	AUX	VBP	_	7	aux	_	_
+6	currently	currently	ADV	RB	_	7	advmod	_	_
+7	yielding	yield	VERB	VBG	_	0	root	_	_
+8	well	well	ADV	RB	_	10	advmod	_	_
+9	over	over	ADP	IN	_	10	advmod	_	_
+10	9	9	NUM	CD	_	11	nummod	_	_
+11	%	%	SYM	NN	_	7	dobj	_	_
+12	.	.	PUNCT	.	_	7	punct	_	_
+

@@ -1,0 +1,28 @@
+# doc_id = wsj_0009
+1	Clark	Clark	PROPN	NNP	_	5	nsubjpass	5:nsubjpass	_
+2	J.	J.	PROPN	NNP	_	1	name	1:name	_
+3	Vitulli	Vitulli	PROPN	NNP	_	1	name	1:name	_
+4	was	be	AUX	VBD	_	5	auxpass	5:auxpass	_
+5	named	name	VERB	VBN	_	0	root	0:root	_
+6	senior	senior	ADJ	JJ	_	8	amod	8:amod	_
+7	vice	vice	NOUN	NN	_	8	compound	8:compound	_
+8	president	president	NOUN	NN	_	5	xcomp	5:xcomp	_
+9	and	and	CONJ	CC	_	8	cc	8:cc	_
+10	general	general	ADJ	JJ	_	11	amod	11:amod	_
+11	manager	manager	NOUN	NN	_	8	conj:and	5:xcomp|8:conj:and	_
+12	of	of	ADP	IN	_	15	case	15:case	_
+13	this	this	DET	DT	_	15	det	15:det	_
+14	U.S.	U.S.	PROPN	NNP	_	15	compound	15:compound	_
+15	sales	sale	NOUN	NNS	_	8	nmod:of	8:nmod:of	_
+16	and	and	CONJ	CC	_	15	cc	15:cc	_
+17	marketing	marketing	NOUN	NN	_	18	compound	18:compound	_
+18	arm	arm	NOUN	NN	_	15	conj:and	15:conj:and|8:nmod:of	_
+19	of	of	ADP	IN	_	25	case	25:case	_
+20	Japanese	japanese	ADJ	JJ	_	25	amod	25:amod	_
+21	auto	auto	NOUN	NN	_	25	compound	25:compound	_
+22	maker	maker	NOUN	NN	_	25	compound	25:compound	_
+23	Mazda	Mazda	PROPN	NNP	_	25	compound	25:compound	_
+24	Motor	Motor	PROPN	NNP	_	25	compound	25:compound	_
+25	Corp	Corp	PROPN	NNP	_	15	nmod:of	15:nmod:of	_
+26	.	.	PUNCT	.	_	5	punct	5:punct	_
+

@@ -1,0 +1,22 @@
+1	Government	government	NOUN	NN	_	2	compound	_	_
+2	officials	official	NOUN	NNS	_	3	nsubj	_	_
+3	said	say	VERB	VBD	_	0	root	_	_
+4	exports	export	NOUN	NNS	_	12	nsubj	_	_
+5	at	at	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	end	end	NOUN	NN	_	4	nmod:at	_	_
+8	of	of	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	_	10	det	_	_
+10	year	year	NOUN	NN	_	7	nmod:of	_	_
+11	would	would	AUX	MD	_	12	aux	_	_
+12	remain	remain	VERB	VB	_	3	ccomp	_	_
+13	under	under	ADP	IN	_	16	case	_	_
+14	a	a	DET	DT	_	16	det	_	_
+15	government	government	NOUN	NN	_	16	compound	_	_
+16	target	target	NOUN	NN	_	12	nmod:under	_	_
+17	of	of	ADP	IN	_	18	case	_	_
+18	$	$	SYM	$	_	16	nmod:of	_	_
+19	68	68	NUM	CD	_	20	compound	_	_
+20	billion	billion	NUM	CD	_	18	nummod	_	_
+21	.	.	PUNCT	.	_	3	punct	_	_
+

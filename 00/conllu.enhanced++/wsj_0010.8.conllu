@@ -1,0 +1,6 @@
+1	Champagne	champagne	NOUN	NN	_	4	nsubj	_	_
+2	and	and	CONJ	CC	_	1	cc	_	_
+3	dessert	dessert	NOUN	NN	_	1	conj:and	_	_
+4	followed	follow	VERB	VBD	_	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	_
+

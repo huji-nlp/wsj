@@ -1,0 +1,29 @@
+# doc_id = wsj_0005
+1	J.P.	J.P.	PROPN	NNP	_	24	nsubjpass	24:nsubjpass	_
+2	Bolduc	Bolduc	PROPN	NNP	_	1	name	1:name	_
+3	,	,	PUNCT	,	_	1	punct	1:punct	_
+4	vice	vice	NOUN	NN	_	5	compound	5:compound	_
+5	chairman	chairman	NOUN	NN	_	1	appos	1:appos	_
+6	of	of	ADP	IN	_	8	case	8:case	_
+7	W.R.	W.R.	PROPN	NNP	_	8	compound	8:compound	_
+8	Grace	Grace	PROPN	NNP	_	5	nmod:of	13:nsubj|5:nmod:of	_
+9	&	&	CONJ	CC	_	8	cc	8:cc	_
+10	Co.	Co.	PROPN	NNP	_	8	conj:&	13:nsubj|5:nmod:of|8:conj:&	_
+11	,	,	PUNCT	,	_	8	punct	8:punct	_
+12	which	which	PRON	WDT	_	8	ref	8:ref	_
+13	holds	hold	VERB	VBZ	_	8	acl:relcl	8:acl:relcl	_
+14	a	a	DET	DT	_	17	det	17:det	_
+15	83.4	83.4	NUM	CD	_	16	compound	16:compound	_
+16	%	%	SYM	NN	_	17	amod	17:amod	_
+17	interest	interest	NOUN	NN	_	13	dobj	13:dobj	_
+18	in	in	ADP	IN	_	21	case	21:case	_
+19	this	this	DET	DT	_	21	det	21:det	_
+20	energy-services	energy-services	ADJ	JJ	_	21	amod	21:amod	_
+21	company	company	NOUN	NN	_	17	nmod:in	17:nmod:in	_
+22	,	,	PUNCT	,	_	1	punct	1:punct	_
+23	was	be	AUX	VBD	_	24	auxpass	24:auxpass	_
+24	elected	elect	VERB	VBN	_	0	root	0:root	_
+25	a	a	DET	DT	_	26	det	26:det	_
+26	director	director	NOUN	NN	_	24	xcomp	24:xcomp	_
+27	.	.	PUNCT	.	_	24	punct	24:punct	_
+

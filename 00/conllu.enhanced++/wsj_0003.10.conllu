@@ -1,0 +1,24 @@
+1	Dr.	Dr.	PROPN	NNP	_	2	nmod	2:nmod	_
+2	Talcott	Talcott	PROPN	NNP	_	3	nsubj	3:nsubj	_
+3	led	lead	VERB	VBD	_	0	root	0:root	_
+4	a	a	DET	DT	_	5	det	5:det	_
+5	team	team	NOUN	NN	_	3	dobj	3:dobj	_
+6	of	of	ADP	IN	_	7	case	7:case	_
+7	researchers	researcher	NOUN	NNS	_	5	nmod:of	5:nmod:of	_
+8	from	from	ADP	IN	_	12	case	12:case	_
+9	the	the	DET	DT	_	12	det	12:det	_
+10	National	National	PROPN	NNP	_	12	compound	12:compound	_
+11	Cancer	Cancer	PROPN	NNP	_	12	compound	12:compound	_
+12	Institute	Institute	PROPN	NNP	_	7	nmod:from	7:nmod:from	_
+13	and	and	CONJ	CC	_	12	cc	12:cc	_
+14	the	the	DET	DT	_	16	det	16:det	_
+15	medical	medical	ADJ	JJ	_	16	amod	16:amod	_
+16	schools	school	NOUN	NNS	_	12	conj:and	12:conj:and|7:nmod:from	_
+17	of	of	ADP	IN	_	19	case	19:case	_
+18	Harvard	Harvard	PROPN	NNP	_	19	compound	19:compound	_
+19	University	University	PROPN	NNP	_	16	nmod:of	16:nmod:of	_
+20	and	and	CONJ	CC	_	19	cc	19:cc	_
+21	Boston	Boston	PROPN	NNP	_	22	compound	22:compound	_
+22	University	University	PROPN	NNP	_	19	conj:and	16:nmod:of|19:conj:and	_
+23	.	.	PUNCT	.	_	3	punct	3:punct	_
+

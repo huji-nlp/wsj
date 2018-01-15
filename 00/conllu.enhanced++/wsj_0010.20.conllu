@@ -1,0 +1,18 @@
+1	But	but	CONJ	CC	_	7	cc	_	_
+2	for	for	ADP	IN	_	3	case	_	_
+3	now	now	ADV	RB	_	7	advcl:for	_	_
+4	,	,	PUNCT	,	_	7	punct	_	_
+5	they	they	PRON	PRP	_	7	nsubj	_	_
+6	're	be	AUX	VBP	_	7	aux	_	_
+7	looking	look	VERB	VBG	_	0	root	_	_
+8	forward	forward	ADV	RB	_	7	advmod	_	_
+9	to	to	ADP	TO	_	12	case	_	_
+10	their	they	PRON	PRP$	_	12	nmod:poss	_	_
+11	winter	winter	NOUN	NN	_	12	compound	_	_
+12	meeting	meeting	NOUN	NN	_	7	nmod:to	_	_
+13	--	--	PUNCT	:	_	14	punct	_	_
+14	Boca	Boca	PROPN	NNP	_	12	dep	_	_
+15	in	in	ADP	IN	_	16	case	_	_
+16	February	February	PROPN	NNP	_	14	nmod:in	_	_
+17	.	.	PUNCT	.	_	7	punct	_	_
+

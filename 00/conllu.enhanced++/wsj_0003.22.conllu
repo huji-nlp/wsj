@@ -1,0 +1,19 @@
+1	In	in	ADP	IN	_	2	case	_	_
+2	July	July	PROPN	NNP	_	8	nmod:in	_	_
+3	,	,	PUNCT	,	_	8	punct	_	_
+4	the	the	DET	DT	_	7	det	_	_
+5	Environmental	Environmental	PROPN	NNP	_	7	compound	_	_
+6	Protection	Protection	PROPN	NNP	_	7	compound	_	_
+7	Agency	Agency	PROPN	NNP	_	8	nsubj	_	_
+8	imposed	impose	VERB	VBD	_	0	root	_	_
+9	a	a	DET	DT	_	11	det	_	_
+10	gradual	gradual	ADJ	JJ	_	11	amod	_	_
+11	ban	ban	NOUN	NN	_	8	dobj	_	_
+12	on	on	ADP	IN	_	15	case	_	_
+13	virtually	virtually	ADV	RB	_	14	advmod	_	_
+14	all	all	DET	DT	_	15	amod	_	_
+15	uses	use	NOUN	NNS	_	8	nmod:on	_	_
+16	of	of	ADP	IN	_	17	case	_	_
+17	asbestos	asbestos	NOUN	NN	_	15	nmod:of	_	_
+18	.	.	PUNCT	.	_	8	punct	_	_
+

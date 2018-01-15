@@ -1,0 +1,22 @@
+1	Neither	neither	DET	DT	_	2	cc:preconj	2:cc:preconj	_
+2	Lorillard	Lorillard	PROPN	NNP	_	11	nsubj	11:nsubj	_
+3	nor	nor	CONJ	CC	_	2	cc	2:cc	_
+4	the	the	DET	DT	_	5	det	5:det	_
+5	researchers	researcher	NOUN	NNS	_	2	conj:nor	11:nsubj|2:conj:nor|7:nsubj	_
+6	who	who	PRON	WP	_	5	ref	5:ref	_
+7	studied	study	VERB	VBD	_	5	acl:relcl	5:acl:relcl	_
+8	the	the	DET	DT	_	9	det	9:det	_
+9	workers	worker	NOUN	NNS	_	7	dobj	7:dobj	_
+10	were	be	VERB	VBD	_	11	cop	11:cop	_
+11	aware	aware	ADJ	JJ	_	0	root	0:root	_
+12	of	of	ADP	IN	_	14	case	14:case	_
+13	any	any	DET	DT	_	14	det	14:det	_
+14	research	research	NOUN	NN	_	11	nmod:of	11:nmod:of	_
+15	on	on	ADP	IN	_	16	case	16:case	_
+16	smokers	smoker	NOUN	NNS	_	14	nmod:on	14:nmod:on	_
+17	of	of	ADP	IN	_	20	case	20:case	_
+18	the	the	DET	DT	_	20	det	20:det	_
+19	Kent	Kent	PROPN	NNP	_	20	compound	20:compound	_
+20	cigarettes	cigarette	NOUN	NNS	_	16	nmod:of	16:nmod:of	_
+21	.	.	PUNCT	.	_	11	punct	11:punct	_
+
