@@ -82,10 +82,10 @@
       <edge toID="1.5" type="A">
         <attributes />
       </edge>
-      <edge toID="1.12" type="U">
+      <edge toID="1.12" type="S">
         <attributes />
       </edge>
-      <edge toID="1.13" type="S">
+      <edge toID="1.13" type="U">
         <attributes />
       </edge>
       <edge toID="1.14" type="A">
