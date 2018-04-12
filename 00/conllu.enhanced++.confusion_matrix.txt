@@ -1,160 +1,312 @@
-['head']              ['C']                508
-['case']              ['R']                231
-['det']               ['E']                196
-['amod']              ['E']                128
-['compound']          ['E']                113
-['head']              ['P']                109
-['nsubj']             ['A']                106
-['dobj']              ['A']                50
-['nummod']            ['E']                33
-['cc']                ['N']                32
-['advmod']            ['D']                31
-['conj:and']          ['C']                26
-['nmod:poss']         ['E']                23
-['head']              ['E']                23
-['aux']               ['F']                22
-['nmod:of']           ['E']                22
-['advmod']            ['E']                19
-['mark']              ['R']                19
-['auxpass']           ['F']                18
-['nummod']            ['C']                16
-['head']              ['S']                16
-['mark']              ['F']                15
-['mark']              ['L']                14
-['nmod:to']           ['A']                13
-['neg']               ['D']                12
-['nsubjpass']         ['A']                12
-['nmod:in']           ['A']                12
-['cop']               ['F']                11
-['ref']               ['R']                11
-['appos']             ['E']                11
-['compound']          ['C']                11
-['nmod:in']           ['D']                11
-['nmod:for']          ['A']                11
-['head']              ['A']                10
-['xcomp']             ['A']                9
-['case']              ['E']                9
-['ccomp']             ['A']                9
-['head']              ['D']                9
-['amod']              ['D']                8
-['head']              ['R']                8
-['cop']               ['S']                8
-['cc']                ['L']                8
-['mwe']               ['R']                7
-['acl:relcl']         ['E']                7
-['amod']              ['C']                7
-['nmod:on']           ['E']                6
-['nmod:tmod']         ['D']                6
-['aux']               ['E']                5
-['head']              ['F']                5
-['dep']               ['C']                5
-['conj:and']          ['H']                5
-['nmod:from']         ['A']                5
-['nmod:for']          ['D']                5
-['nmod:of']           ['A']                5
-['case']              ['L']                5
-['nmod:from']         ['D']                5
-['case']              ['F']                5
-['conj:or']           ['C']                4
-['advmod']            ['R']                4
-['nmod:poss']         ['A']                4
-['nmod:with']         ['E']                4
-['acl']               ['E']                4
-['nmod:with']         ['A']                4
-['nmod']              ['E']                4
-['name']              ['C']                4
-['nmod:for']          ['E']                4
-['nmod:like']         ['E']                3
-['nmod:on']           ['A']                3
-['amod']              ['A', 'E']           3
-['advmod']            ['C']                3
-['nmod:in']           ['E']                3
-['cc']                ['G']                3
-['ccomp']             ['E']                3
-['ref']               ['F']                3
-['amod']              ['P']                3
-['nmod:at']           ['E']                3
-['nmod:by']           ['A']                3
-['det:qmod']          ['E']                2
-['advmod']            ['G']                2
-['nmod:agent']        ['A']                2
-['iobj']              ['A']                2
-['advmod']            ['A']                2
-['acl:to']            ['A']                2
-['det']               ['F']                2
-['nmod:by']           ['D']                2
-['advcl']             ['H']                2
-['cop']               ['C']                2
-['nmod:during']       ['D']                2
-['nmod:as']           ['A']                2
-['dep']               ['D']                2
-['nmod:tmod']         ['C']                2
-['nummod']            ['D']                2
-['nmod:into']         ['A']                2
-['nmod:including']    ['E']                2
-['advmod']            ['L']                2
-['appos']             ['C']                2
-['case']              ['N']                2
-['compound']          ['D']                2
-['nmod:at']           ['A']                2
-['expl']              ['F']                2
-['parataxis']         ['H']                2
-['det']               ['D']                2
-['mwe']               ['C']                1
-['nmod:like']         ['D']                1
-['ref']               ['E', 'R']           1
-['nmod:according_to'] ['A']                1
-['conj:and']          ['H', 'P']           1
-['nmod:among']        ['E']                1
-['advcl:for']         ['D']                1
-['acl:relcl']         ['A']                1
-['compound']          ['A', 'C', 'E', 'P'] 1
-['compound']          ['A']                1
-['head']              ['A', 'E']           1
-['nmod:tmod']         ['E']                1
-['compound:prt']      ['A', 'R']           1
-['advcl:of']          ['A']                1
-['dep']               ['A']                1
-['nmod:agent']        ['D']                1
-['conj:along']        ['C']                1
-['acl:relcl']         ['C']                1
-['nmod:like']         ['A']                1
-['nmod:at']           ['D']                1
-['nmod:tmod']         ['G']                1
-['dobj']              ['E']                1
-['dep']               ['L']                1
-['acl:to']            ['E']                1
-['nmod:despite']      ['A']                1
-['advcl']             ['A']                1
-['mwe']               ['F']                1
-['conj:but']          ['H']                1
-['acl:at']            ['E']                1
-['head']              ['A', 'C']           1
-['nmod:npmod']        ['A']                1
-['nsubj']             ['L']                1
-['acl:relcl', 'head'] ['P']                1
-['nmod:npmod']        ['C']                1
-['advcl:before']      ['E']                1
-['nmod:over']         ['A']                1
-['dobj']              ['C']                1
-['nmod:amid']         ['A']                1
-['advcl']             ['E']                1
-['advcl']             ['D']                1
-['nsubj']             ['E']                1
-['nsubj']             ['F']                1
-['nummod']            ['A']                1
-['nmod:on']           ['D']                1
-['acl:over']          ['E']                1
-['mark']              ['E']                1
-['dep']               ['E']                1
-['nmod:such_as']      ['E']                1
-['nmod:npmod']        ['D']                1
-['nmod:from']         ['E']                1
-['nmod:after']        ['D']                1
-['nmod:of']           ['D']                1
-['xcomp']             ['P']                1
-['aux']               ['D']                1
-['advcl:ago']         ['A']                1
-['nmod:by']           ['E']                1
-['nmod:since']        ['E']                1
-['xcomp']             ['H']                1
+guessed,ref,count
+head,C,524
+case,R,235
+det,E,200
+amod,E,134
+compound,E,127
+nsubj,A,124
+head,P,112
+dobj,A,59
+cc,N,34
+nummod,E,33
+advmod,D,32
+conj:and,C,30
+nmod:of,E,24
+nmod:poss,E,23
+aux,F,22
+head,E,21
+mark,R,19
+advmod,E,19
+auxpass,F,18
+nummod,C,16
+head,S,16
+nmod:to,A,16
+mark,F,15
+ccomp,A,15
+mark,L,14
+nsubjpass,A,13
+nmod:in,A,13
+ref,R,12
+nmod:in,D,12
+neg,D,12
+nmod:for,A,11
+cop,F,11
+compound,C,11
+appos,E,10
+cop,S,10
+xcomp,A,9
+head,D,9
+head,A,9
+case,E,9
+cc,L,8
+head,R,8
+mwe,R,8
+amod,D,8
+acl:relcl,E,7
+amod,C,7
+nmod:tmod,D,6
+nmod:on,E,6
+nmod:for,D,5
+nmod:of,A,5
+nmod:from,D,5
+case,L,5
+nmod:from,A,5
+nmod:with,E,5
+head,F,5
+dep,C,5
+acl,E,5
+case,F,5
+aux,E,5
+conj:and,H,5
+nmod:for,E,4
+nmod:with,A,4
+conj:or,C,4
+nmod:in,E,4
+nmod:at,E,4
+nmod:poss,A,4
+advmod,R,4
+nmod:from,E,4
+iobj,A,3
+amod,P,3
+cc,G,3
+ref,F,3
+advcl,H,3
+nmod:like,E,3
+nmod:on,A,3
+advmod,C,3
+nmod:by,A,3
+ccomp,E,3
+expl,F,2
+case,N,2
+det,D,2
+nmod:agent,A,2
+nmod:including,E,2
+compound,D,2
+dep,A,2
+dep,D,2
+advmod,G,2
+parataxis,H,2
+cop,C,2
+det,F,2
+appos,C,2
+nmod:during,D,2
+advmod,L,2
+nmod:as,A,2
+acl:to,A,2
+nmod:by,D,2
+nmod:according_to,A,2
+nmod:tmod,C,2
+nmod:among,E,2
+nummod,D,2
+nmod:into,A,2
+dep,E,2
+det:qmod,E,2
+advmod,A,2
+nmod:at,A,2
+acl:to,E,1
+advcl:for,D,1
+advcl:ago,A,1
+advcl,E,1
+advcl:before,E,1
+conj:and,H|P,1
+nsubj,L,1
+advcl,D,1
+acl:at,E,1
+compound:prt,A|R,1
+nmod:such_as,E,1
+nmod:npmod,A,1
+advcl:of,A,1
+nsubj,F,1
+acl:relcl|head,P,1
+advcl,A,1
+dobj,E,1
+nmod:like,A,1
+acl:over,E,1
+aux,D,1
+nmod:over,A,1
+nmod:despite,A,1
+nmod:npmod,C,1
+acl:relcl,A,1
+nummod,A,1
+nmod:tmod,E,1
+nmod:by,E,1
+mwe,C,1
+nmod:tmod,G,1
+dep,L,1
+mwe,F,1
+nmod:like,D,1
+mark,E,1
+conj:but,H,1
+xcomp,P,1
+nmod:on,D,1
+nmod:at,D,1
+nmod:agent,D,1
+acl:relcl,C,1
+compound,A,1
+conj:along,C,1
+xcomp,H,1
+nmod:after,D,1
+amod,A|E,1
+dobj,C,1
+nsubj,E,1
+nmod:npmod,D,1
+nmod:under,D,1
+nmod:of,D,1
+nmod:amid,A,1
+nmod:since,E,1
+guessed,ref,count
+head,C,524
+case,R,235
+det,E,200
+amod,E,134
+compound,E,127
+nsubj,A,124
+head,P,112
+dobj,A,59
+cc,N,34
+nummod,E,33
+advmod,D,32
+conj:and,C,30
+nmod:of,E,24
+nmod:poss,E,23
+aux,F,22
+head,E,21
+mark,R,19
+advmod,E,19
+auxpass,F,18
+nummod,C,16
+head,S,16
+nmod:to,A,16
+mark,F,15
+ccomp,A,15
+mark,L,14
+nsubjpass,A,13
+nmod:in,A,13
+ref,R,12
+nmod:in,D,12
+neg,D,12
+nmod:for,A,11
+cop,F,11
+compound,C,11
+appos,E,10
+cop,S,10
+xcomp,A,9
+head,D,9
+head,A,9
+case,E,9
+cc,L,8
+head,R,8
+mwe,R,8
+amod,D,8
+acl:relcl,E,7
+amod,C,7
+nmod:tmod,D,6
+nmod:on,E,6
+nmod:for,D,5
+nmod:of,A,5
+nmod:from,D,5
+case,L,5
+nmod:from,A,5
+nmod:with,E,5
+head,F,5
+dep,C,5
+acl,E,5
+case,F,5
+aux,E,5
+conj:and,H,5
+nmod:for,E,4
+nmod:with,A,4
+conj:or,C,4
+nmod:in,E,4
+nmod:at,E,4
+nmod:poss,A,4
+advmod,R,4
+nmod:from,E,4
+iobj,A,3
+amod,P,3
+cc,G,3
+ref,F,3
+advcl,H,3
+nmod:like,E,3
+nmod:on,A,3
+advmod,C,3
+nmod:by,A,3
+ccomp,E,3
+expl,F,2
+case,N,2
+det,D,2
+nmod:agent,A,2
+nmod:including,E,2
+compound,D,2
+dep,A,2
+dep,D,2
+advmod,G,2
+parataxis,H,2
+cop,C,2
+det,F,2
+appos,C,2
+nmod:during,D,2
+advmod,L,2
+nmod:as,A,2
+acl:to,A,2
+nmod:by,D,2
+nmod:according_to,A,2
+nmod:tmod,C,2
+nmod:among,E,2
+nummod,D,2
+nmod:into,A,2
+dep,E,2
+det:qmod,E,2
+advmod,A,2
+nmod:at,A,2
+acl:to,E,1
+advcl:for,D,1
+advcl:ago,A,1
+advcl,E,1
+advcl:before,E,1
+conj:and,H|P,1
+nsubj,L,1
+advcl,D,1
+acl:at,E,1
+compound:prt,A|R,1
+nmod:such_as,E,1
+nmod:npmod,A,1
+advcl:of,A,1
+nsubj,F,1
+acl:relcl|head,P,1
+advcl,A,1
+dobj,E,1
+nmod:like,A,1
+acl:over,E,1
+aux,D,1
+nmod:over,A,1
+nmod:despite,A,1
+nmod:npmod,C,1
+acl:relcl,A,1
+nummod,A,1
+nmod:tmod,E,1
+nmod:by,E,1
+mwe,C,1
+nmod:tmod,G,1
+dep,L,1
+mwe,F,1
+nmod:like,D,1
+mark,E,1
+conj:but,H,1
+xcomp,P,1
+nmod:on,D,1
+nmod:at,D,1
+nmod:agent,D,1
+acl:relcl,C,1
+compound,A,1
+conj:along,C,1
+xcomp,H,1
+nmod:after,D,1
+amod,A|E,1
+dobj,C,1
+nsubj,E,1
+nmod:npmod,D,1
+nmod:under,D,1
+nmod:of,D,1
+nmod:amid,A,1
+nmod:since,E,1
