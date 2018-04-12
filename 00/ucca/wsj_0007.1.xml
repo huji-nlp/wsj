@@ -313,6 +313,9 @@
       <edge toID="1.28" type="U">
         <attributes />
       </edge>
+      <edge toID="0.22" type="Terminal">
+        <attributes />
+      </edge>
     </node>
     <node ID="1.28" type="PNCT">
       <attributes />

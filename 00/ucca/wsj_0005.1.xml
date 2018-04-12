@@ -193,6 +193,12 @@
       <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
+      <edge toID="0.9" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.10" type="Terminal">
+        <attributes />
+      </edge>
     </node>
     <node ID="1.13" type="PNCT">
       <attributes />
