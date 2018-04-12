@@ -88,7 +88,7 @@
       <edge toID="1.3" type="H">
         <attributes />
       </edge>
-      <edge toID="1.33" type="U">
+      <edge toID="1.34" type="U">
         <attributes />
       </edge>
     </node>
@@ -103,10 +103,10 @@
       <edge toID="1.4" type="A">
         <attributes />
       </edge>
-      <edge toID="1.18" type="P">
+      <edge toID="1.21" type="P">
         <attributes />
       </edge>
-      <edge toID="1.21" type="A">
+      <edge toID="1.22" type="A">
         <attributes />
       </edge>
     </node>
