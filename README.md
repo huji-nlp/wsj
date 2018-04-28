@@ -9,9 +9,14 @@ The passages are given as xmls.
 The total number of tokens in this corpus is 2818 (2273 from section 00 and 545 from section 02).
 
 The dataset is a part of the UCCA project developed in the NLP lab of the Hebrew University 
-by Omri Abend and Ari Rappoport. The users of this dataset are kindly requested to cite [the following publication](http://www.aclweb.org/anthology/P13-1023):
+by Omri Abend and Ari Rappoport. The users of this dataset are kindly requested to cite [the following publication](http://www.cs.huji.ac.il/~danielh/acl2018.pdf):
 
-    Universal Conceptual Cognitive Annotation (UCCA). Omri Abend and Ari Rappoport, ACL 2013
+    @InProceedings{hershcovich2018multitask,
+      author    = {Hershcovich, Daniel  and  Abend, Omri  and  Rappoport, Ari},
+      title     = {Multitask Parsing Across Semantic Representations},
+      booktitle = {Proc. of ACL},
+      year      = {2018}
+    }
 
 Please refer to [our website](http://www.cs.huji.ac.il/~oabend/ucca.html) or email (oabend@cs.huji.ac.il)
 for regular updates on the UCCA project and available resources.
