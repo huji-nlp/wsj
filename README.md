@@ -17,7 +17,8 @@ by Omri Abend and Ari Rappoport. The users of this dataset are kindly requested 
       author    = {Hershcovich, Daniel  and  Abend, Omri  and  Rappoport, Ari},
       title     = {Multitask Parsing Across Semantic Representations},
       booktitle = {Proc. of ACL},
-      year      = {2018}
+      year      = {2018},
+      url       = {http://www.cs.huji.ac.il/~danielh/acl2018.pdf}
     }
 
 Please refer to [our website](http://www.cs.huji.ac.il/~oabend/ucca.html) or email (oabend@cs.huji.ac.il)
