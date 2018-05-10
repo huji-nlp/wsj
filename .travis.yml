@@ -1,0 +1,19 @@
+cache: apt
+dist: trusty
+sudo: false
+language: python
+cache:
+  pip: true
+  directories:
+  - $HOME/virtualenv
+python:
+  - "3.6"
+install:
+  - pip install ucca
+env:
+  matrix:
+  - DATASET=00/ucca
+  - DATASET=02/xml
+script:
+  - python -m scripts.validate $DATASET || echo Ignoring validation failures
+
