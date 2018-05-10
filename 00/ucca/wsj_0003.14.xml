@@ -3,55 +3,55 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="Four" />
+      <attributes paragraph="1" paragraph_position="1" text="_" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="of" />
+      <attributes paragraph="1" paragraph_position="2" text="_" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="the" />
+      <attributes paragraph="1" paragraph_position="3" text="_" />
     </node>
     <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="five" />
+      <attributes paragraph="1" paragraph_position="4" text="_" />
     </node>
     <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="surviving" />
+      <attributes paragraph="1" paragraph_position="5" text="_" />
     </node>
     <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="workers" />
+      <attributes paragraph="1" paragraph_position="6" text="_" />
     </node>
     <node ID="0.7" type="Word">
-      <attributes paragraph="1" paragraph_position="7" text="have" />
+      <attributes paragraph="1" paragraph_position="7" text="_" />
     </node>
     <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="asbestos-related" />
+      <attributes paragraph="1" paragraph_position="8" text="_" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="diseases" />
+      <attributes paragraph="1" paragraph_position="9" text="_" />
     </node>
     <node ID="0.10" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="10" text="," />
+      <attributes paragraph="1" paragraph_position="10" text="_" />
     </node>
     <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="including" />
+      <attributes paragraph="1" paragraph_position="11" text="_" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="three" />
+      <attributes paragraph="1" paragraph_position="12" text="_" />
     </node>
     <node ID="0.13" type="Word">
-      <attributes paragraph="1" paragraph_position="13" text="with" />
+      <attributes paragraph="1" paragraph_position="13" text="_" />
     </node>
     <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="recently" />
+      <attributes paragraph="1" paragraph_position="14" text="_" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="diagnosed" />
+      <attributes paragraph="1" paragraph_position="15" text="_" />
     </node>
     <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="cancer" />
+      <attributes paragraph="1" paragraph_position="16" text="_" />
     </node>
     <node ID="0.17" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="17" text="." />
+      <attributes paragraph="1" paragraph_position="17" text="_" />
     </node>
   </layer>
   <layer layerID="1">

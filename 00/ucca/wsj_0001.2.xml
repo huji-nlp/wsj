@@ -3,43 +3,43 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="Mr." />
+      <attributes paragraph="1" paragraph_position="1" text="_" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="Vinken" />
+      <attributes paragraph="1" paragraph_position="2" text="_" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="is" />
+      <attributes paragraph="1" paragraph_position="3" text="_" />
     </node>
     <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="chairman" />
+      <attributes paragraph="1" paragraph_position="4" text="_" />
     </node>
     <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="of" />
+      <attributes paragraph="1" paragraph_position="5" text="_" />
     </node>
     <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="Elsevier" />
+      <attributes paragraph="1" paragraph_position="6" text="_" />
     </node>
     <node ID="0.7" type="Word">
-      <attributes paragraph="1" paragraph_position="7" text="N.V." />
+      <attributes paragraph="1" paragraph_position="7" text="_" />
     </node>
     <node ID="0.8" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="8" text="," />
+      <attributes paragraph="1" paragraph_position="8" text="_" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="the" />
+      <attributes paragraph="1" paragraph_position="9" text="_" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="Dutch" />
+      <attributes paragraph="1" paragraph_position="10" text="_" />
     </node>
     <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="publishing" />
+      <attributes paragraph="1" paragraph_position="11" text="_" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="group" />
+      <attributes paragraph="1" paragraph_position="12" text="_" />
     </node>
     <node ID="0.13" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="13" text="." />
+      <attributes paragraph="1" paragraph_position="13" text="_" />
     </node>
   </layer>
   <layer layerID="1">

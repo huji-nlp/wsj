@@ -3,106 +3,106 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="Workers" />
+      <attributes paragraph="1" paragraph_position="1" text="_" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="dumped" />
+      <attributes paragraph="1" paragraph_position="2" text="_" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="large" />
+      <attributes paragraph="1" paragraph_position="3" text="_" />
     </node>
     <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="burlap" />
+      <attributes paragraph="1" paragraph_position="4" text="_" />
     </node>
     <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="sacks" />
+      <attributes paragraph="1" paragraph_position="5" text="_" />
     </node>
     <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="of" />
+      <attributes paragraph="1" paragraph_position="6" text="_" />
     </node>
     <node ID="0.7" type="Word">
-      <attributes paragraph="1" paragraph_position="7" text="the" />
+      <attributes paragraph="1" paragraph_position="7" text="_" />
     </node>
     <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="imported" />
+      <attributes paragraph="1" paragraph_position="8" text="_" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="material" />
+      <attributes paragraph="1" paragraph_position="9" text="_" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="into" />
+      <attributes paragraph="1" paragraph_position="10" text="_" />
     </node>
     <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="a" />
+      <attributes paragraph="1" paragraph_position="11" text="_" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="huge" />
+      <attributes paragraph="1" paragraph_position="12" text="_" />
     </node>
     <node ID="0.13" type="Word">
-      <attributes paragraph="1" paragraph_position="13" text="bin" />
+      <attributes paragraph="1" paragraph_position="13" text="_" />
     </node>
     <node ID="0.14" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="14" text="," />
+      <attributes paragraph="1" paragraph_position="14" text="_" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="poured" />
+      <attributes paragraph="1" paragraph_position="15" text="_" />
     </node>
     <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="in" />
+      <attributes paragraph="1" paragraph_position="16" text="_" />
     </node>
     <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="cotton" />
+      <attributes paragraph="1" paragraph_position="17" text="_" />
     </node>
     <node ID="0.18" type="Word">
-      <attributes paragraph="1" paragraph_position="18" text="and" />
+      <attributes paragraph="1" paragraph_position="18" text="_" />
     </node>
     <node ID="0.19" type="Word">
-      <attributes paragraph="1" paragraph_position="19" text="acetate" />
+      <attributes paragraph="1" paragraph_position="19" text="_" />
     </node>
     <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="fibers" />
+      <attributes paragraph="1" paragraph_position="20" text="_" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="and" />
+      <attributes paragraph="1" paragraph_position="21" text="_" />
     </node>
     <node ID="0.22" type="Word">
-      <attributes paragraph="1" paragraph_position="22" text="mechanically" />
+      <attributes paragraph="1" paragraph_position="22" text="_" />
     </node>
     <node ID="0.23" type="Word">
-      <attributes paragraph="1" paragraph_position="23" text="mixed" />
+      <attributes paragraph="1" paragraph_position="23" text="_" />
     </node>
     <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="the" />
+      <attributes paragraph="1" paragraph_position="24" text="_" />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="dry" />
+      <attributes paragraph="1" paragraph_position="25" text="_" />
     </node>
     <node ID="0.26" type="Word">
-      <attributes paragraph="1" paragraph_position="26" text="fibers" />
+      <attributes paragraph="1" paragraph_position="26" text="_" />
     </node>
     <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="in" />
+      <attributes paragraph="1" paragraph_position="27" text="_" />
     </node>
     <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="a" />
+      <attributes paragraph="1" paragraph_position="28" text="_" />
     </node>
     <node ID="0.29" type="Word">
-      <attributes paragraph="1" paragraph_position="29" text="process" />
+      <attributes paragraph="1" paragraph_position="29" text="_" />
     </node>
     <node ID="0.30" type="Word">
-      <attributes paragraph="1" paragraph_position="30" text="used" />
+      <attributes paragraph="1" paragraph_position="30" text="_" />
     </node>
     <node ID="0.31" type="Word">
-      <attributes paragraph="1" paragraph_position="31" text="to" />
+      <attributes paragraph="1" paragraph_position="31" text="_" />
     </node>
     <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="make" />
+      <attributes paragraph="1" paragraph_position="32" text="_" />
     </node>
     <node ID="0.33" type="Word">
-      <attributes paragraph="1" paragraph_position="33" text="filters" />
+      <attributes paragraph="1" paragraph_position="33" text="_" />
     </node>
     <node ID="0.34" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="34" text="." />
+      <attributes paragraph="1" paragraph_position="34" text="_" />
     </node>
   </layer>
   <layer layerID="1">
