@@ -12,7 +12,7 @@ fi
 
 DIR=$(dirname $(readlink -f $0))
 
-for MRG_FILE in ${WSJ_DIR}/00/wsj_*.[mM][rR][gG]; do
+for MRG_FILE in ${WSJ_DIR}/00/[wW][sS][jJ]_*.[mM][rR][gG]; do
     BASENAME="$(basename ${MRG_FILE%.*})"  # remove suffix and path
     BASENAME="${BASENAME,,}"  # to lower case
     NUM_SENTENCES="$(csplit ${MRG_FILE} '/^(/' '{*}' -f ${TEMP_DIR}/${BASENAME}. -n 1 | wc -l)"  # split on sentences
