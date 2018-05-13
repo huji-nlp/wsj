@@ -13,7 +13,6 @@ install:
 env:
   matrix:
   - DATASET=00/ucca
-  - DATASET=02/xml
 script:
   - python -m scripts.validate $DATASET || echo Ignoring validation failures
 
