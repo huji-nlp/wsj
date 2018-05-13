@@ -24,8 +24,7 @@ for MRG_FILE in ${WSJ_DIR}/00/[wW][sS][jJ]_*.[mM][rR][gG]; do
         fi
         TOK_FILE="${TEMP_DIR}/${BASENAME}.${SENT}.tokens"  # extract one token per line
         grep -Po '(?<!-NONE- )(?<= )[^) ]+(?=\))' "${TEMP_DIR}/${BASENAME}.${SENT}" | sed 's/&/&amp;/' > ${TOK_FILE}
-        perl -MFile::Slurp -pi -e \
-            'BEGIN {@lines = read_file("'${TOK_FILE}'", chomp => 1);} s/(?<=")_(?=")/$lines[$i++]/ge' ${XML_FILE}
+        perl -pi -e 'BEGIN {@lines = grep {chomp;} `cat '${TOK_FILE}'`;} s/(?<=")_(?=")/$lines[$i++]/ge' ${XML_FILE}
     done
 done
 if grep -l '"_"' 00/ucca/*.xml; then
