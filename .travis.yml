@@ -15,5 +15,5 @@ env:
   - DATASET=00/ucca
 script:
   - scripts/insert_tokens.sh
-  - python -m scripts.validate $DATASET || echo Ignoring validation failures
+  - python -m scripts.validate $DATASET
 
